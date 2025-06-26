@@ -22,8 +22,12 @@
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
 {{ if $block.content.filters.exclude }}
-  {{ $query = where $query "Params.publication_type" "not in" $block.content.filters.exclude.publication_type }}
-  {{ $query = where $query "Params.authors" "not in" $block.content.filters.exclude.author }}
+  {{ if $block.content.filters.exclude.publication_type }}
+    {{ $query = where $query "Params.publication_type" "not in" $block.content.filters.exclude.publication_type }}
+  {{ end }}
+  {{ if $block.content.filters.exclude.author }}
+    {{ $query = where $query "Params.authors" "not in" $block.content.filters.exclude.author }}
+  {{ end }}
 {{ end }}
 
 {{/* Sort */}}
