@@ -2,7 +2,7 @@
 title = "Hybrid neural network based multi-objective optimal design of hybrid pin-fin microchannel heatsink for integrated microsystems"
 date = "2025-06-01"
 authors = ["Cheng-Yi, Feng"]
-tags = [microchannel, "pin-fin heat sink", "multi-objective optimization", "hybrid neural network"]
+tags = ["microchannel", "pin-fin heat sink", "multi-objective optimization", "hybrid neural network"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

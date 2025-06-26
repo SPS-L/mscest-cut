@@ -2,7 +2,7 @@
 title = "IAQ prediction and IAQ improvement strategy based on ETSformer neural network"
 date = "2025-06-01"
 authors = ["Zhou Zhou"]
-tags = [IAQ, "ETSformer neural network", "air quality prediction", "improvement strategy"]
+tags = ["IAQ", "ETSformer neural network", "air quality prediction", "improvement strategy"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, authored by Zhou Zhou at Cyprus University of Technology in June 2025, explores the prediction of indoor air quality (IAQ) and the development of improvement strategies using the ETSformer neural network. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a multidisciplinary approach that combines environmental science, machine learning, and engineering. The thesis addresses the growing need for accurate IAQ forecasting and actionable strategies to mitigate air pollution in indoor environments, which is critical for public health and environmental management.
+This master's thesis, authored by Zhou Zhou at Cyprus University of Technology in June 2025, explores the prediction of indoor air quality (IAQ) and the development of improvement strategies using the ETSformer neural network. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a multidisciplinary approach that combines environmental science, machine learning, and engineering. The thesis addresses the growing need for accurate IAQ forecasting and actionable strategies to mitigate air pollution in indoor environments, which is critical for public health and environmental management.
 
 ## Key Contributions
 
@@ -36,7 +36,7 @@ This master’s thesis, authored by Zhou Zhou at Cyprus University of Technology
 
 - **Integration of Data Sources:** The research integrates multiple data streams, including sensor measurements and contextual information, to enhance the robustness and accuracy of IAQ predictions. This holistic data-driven methodology enables more reliable decision-making for building management and policy interventions.
 
-- **Evaluation and Validation:** The thesis includes a comprehensive evaluation of the ETSformer model’s predictive performance, benchmarking it against existing methods. The results demonstrate notable improvements in forecasting accuracy, underscoring the potential of transformer-based neural networks in environmental applications.
+- **Evaluation and Validation:** The thesis includes a comprehensive evaluation of the ETSformer model's predictive performance, benchmarking it against existing methods. The results demonstrate notable improvements in forecasting accuracy, underscoring the potential of transformer-based neural networks in environmental applications.
 
 ## Impact and Relevance
 

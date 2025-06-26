@@ -2,7 +2,7 @@
 title = "Multimodal Medical Imaging with application in Histotripsy and Image Fusion"
 date = "2025-06-01"
 authors = ["Yuhan Lyu"]
-tags = [histotripsy, "multimodal imaging", "image fusion", "medical imaging"]
+tags = ["histotripsy", "multimodal imaging", "image fusion", "medical imaging"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
