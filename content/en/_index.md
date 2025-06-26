@@ -48,10 +48,6 @@ sections:
           - '4'  # Books
           - '5'  # Reports
           - '6'  # Theses
-        exclude_featured: false
-        exclude:
-          - publication_type: '2'
-          - author: 'admin'
       count: 5
       page_size: 10
       sort_by: 'Date'
