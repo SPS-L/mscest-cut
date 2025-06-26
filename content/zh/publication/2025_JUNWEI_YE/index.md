@@ -1,10 +1,10 @@
 +++
-title = "Behavioral Modeling Techniques for RF Devices Based on Physical TCAD Model"
+title = "基于物理TCAD模型的射频器件行为建模技术"
 date = "2025-06-01"
 authors = ["JUNWEI YE"]
-tags = ["RF devices", "behavioral modeling", "TCAD model", "physical modeling"]
+tags = ["射频器件", "行为建模", "TCAD模型", "物理建模"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,22 +24,22 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, titled **Behavioral Modeling Techniques for RF Devices Based on Physical TCAD Model**, presents a comprehensive study on the development and application of behavioral modeling strategies for radio frequency (RF) devices. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at the Cyprus University of Technology, reflecting the institution's focus on advancing research in electrical and computer engineering. The thesis is authored by Junwei Ye and supervised by Neophytos Lophitis, with the research completed and submitted in February 2024 in Limassol. The study addresses the growing need for accurate, efficient, and physically informed models that can bridge the gap between detailed device-level simulations and higher-level circuit/system design requirements.
+本硕士论文《基于物理TCAD模型的射频器件行为建模技术》对射频（RF）器件行为建模策略的开发和应用进行了全面研究。该研究在塞浦路斯理工大学电气工程、计算机工程与信息学系进行，体现了该机构在电气与计算机工程研究方面的重点。论文由Junwei Ye撰写，Neophytos Lophitis指导，研究于2024年2月在利马索尔完成并提交。该研究解决了对准确、高效且具有物理信息模型的日益增长需求，这些模型能够弥合详细器件级仿真与更高级别电路/系统设计需求之间的差距。
 
-## Key Contributions
+## 主要贡献
 
-- **Integration of Physical and Behavioral Models:** The thesis introduces a methodology that leverages Technology Computer-Aided Design (TCAD) models to inform and enhance behavioral models for RF devices. By grounding behavioral models in physical device characteristics, the approach improves the predictive accuracy and relevance of the models in practical design scenarios.
+- **物理与行为模型的集成**：本论文介绍了一种利用技术计算机辅助设计（TCAD）模型来指导并增强射频器件行为建模的方法。通过将行为模型建立在物理器件特性的基础上，该方法提高了模型在实际设计场景中的预测准确性和相关性。
 
-- **Modeling Techniques for RF Devices:** The work systematically explores various behavioral modeling techniques, evaluating their suitability and performance for different classes of RF devices. The thesis likely discusses parameter extraction, model validation, and the translation of physical effects into compact model forms suitable for circuit simulation environments.
+- **射频器件建模技术**：该研究系统探索了各种行为建模技术，评估了它们对不同类别射频器件的适用性和性能。论文可能讨论了参数提取、模型验证，以及将物理效应转换为适合电路仿真环境的紧凑模型形式。
 
-- **Case Studies and Validation:** Through practical case studies, the thesis demonstrates the effectiveness of the proposed modeling techniques. These case studies likely involve comparisons between TCAD-based simulations, traditional behavioral models, and the newly developed hybrid models, showcasing improvements in accuracy and computational efficiency.
+- **案例研究与验证**：通过实际案例研究，本论文证明了所提出建模技术的有效性。这些案例研究可能涉及基于TCAD的仿真、传统行为模型与新开发的混合模型之间的比较，展示了在准确性和计算效率方面的改进。
 
-- **Framework for Future Research:** The thesis sets out a framework that can be extended to other device types and modeling challenges, emphasizing modularity, scalability, and adaptability of the proposed techniques.
+- **未来研究框架**：本论文建立了一个可扩展到其他器件类型和建模挑战的框架，强调了所提出技术的模块化、可扩展性和适应性。
 
-## Impact and Relevance
+## 影响与相关性
 
-The research presented in this thesis is highly relevant to both academic and industrial communities engaged in RF device design and simulation. By bridging the gap between detailed physical modeling (via TCAD) and practical behavioral modeling, the work enables more accurate and efficient design flows for modern RF systems. This is particularly important as RF devices become more complex and operate at higher frequencies, where traditional modeling approaches may fall short.
+本论文中提出的研究对从事射频器件设计和仿真的学术和工业界都具有高度相关性。通过弥合详细物理建模（通过TCAD）与实际行为建模之间的差距，该工作为现代射频系统实现了更准确、更高效的设计流程。这在射频器件变得更加复杂并在更高频率下运行时尤为重要，而传统建模方法可能无法满足要求。
 
-The thesis contributes to the ongoing evolution of electronic design automation (EDA) tools and methodologies, supporting the development of next-generation wireless communication, sensing, and signal processing systems. The integration of physical insight into behavioral models not only enhances model fidelity but also accelerates the iterative design process, reducing time-to-market and improving device performance. The methodologies and findings outlined in this work are expected to inform future research and development in the field, fostering innovation in both device modeling and system-level design.
+本论文为电子设计自动化（EDA）工具和方法论的持续发展做出贡献，支持下一代无线通信、传感和信号处理系统的开发。将物理洞察集成到行为模型中不仅增强了模型保真度，还加速了迭代设计过程，缩短了上市时间并提高了器件性能。本工作中概述的方法和发现有望为该领域的未来研究和开发提供指导，促进器件建模和系统级设计的创新。

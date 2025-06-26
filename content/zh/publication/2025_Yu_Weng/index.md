@@ -1,10 +1,10 @@
 +++
-title = "Methods for improving MR thermometry in focused ultrasound"
+title = "聚焦超声中磁共振测温方法的改进"
 date = "2025-06-01"
 authors = ["Yu Weng"]
-tags = ["MR thermometry", "focused ultrasound", "magnetic resonance imaging", "temperature monitoring"]
+tags = ["磁共振测温", "聚焦超声", "磁共振成像", "温度监测"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,17 +24,17 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, authored by Yu Weng at the Cyprus University of Technology, addresses advanced methods for improving magnetic resonance (MR) thermometry in the context of focused ultrasound (FUS) therapies. MR thermometry is a non-invasive imaging technique that enables real-time temperature mapping during thermal therapies, such as high-intensity focused ultrasound (HIFU) treatments. These therapies are increasingly used for precise ablation of pathological tissues, including tumors, without the need for surgical incisions. The integration of MR imaging with focused ultrasound allows clinicians to monitor and control the delivery of thermal energy, ensuring both efficacy and safety. However, MR thermometry faces several technical challenges, especially in dynamic or heterogeneous tissue environments, which this thesis aims to address.
+本硕士论文由Yu Weng在塞浦路斯理工大学完成，研究聚焦超声（FUS）治疗中改进磁共振（MR）测温的先进方法。MR测温是一种非侵入性成像技术，能够在高强度聚焦超声（HIFU）等热疗过程中实现实时温度映射。这些治疗越来越多地用于精确消融病理组织，包括肿瘤，而无需手术切口。磁共振成像与聚焦超声的集成使临床医生能够监测和控制热能的传递，确保疗效和安全性。然而，MR测温面临一些技术挑战，特别是在动态或异质性组织环境中，本论文旨在解决这些问题。
 
-## Key Contributions
+## 主要贡献
 
-- **Analysis of Current MR Thermometry Techniques:** The thesis provides a comprehensive review of existing MR thermometry methods, including the widely used proton resonance frequency (PRF) shift technique, and discusses their limitations in the presence of tissue motion, magnetic field variations, and susceptibility changes.
-- **Proposed Improvements:** Building on the limitations identified, the thesis explores advanced acquisition and processing strategies such as parallel imaging, sparse sampling, and robust signal processing algorithms. It also evaluates multibaseline, referenceless, and hybrid thermometry techniques that enhance measurement accuracy in challenging scenarios.
-- **Motion Tracking and Compensation:** Recognizing the impact of organ motion (e.g., in the liver, kidney, or heart), the work investigates motion tracking solutions, including anatomical image atlases, optical-flow displacement detection, navigator echoes, and rapid vessel tracking. These techniques are crucial for maintaining spatial accuracy during temperature monitoring.
-- **Alternative Imaging Approaches:** The thesis reviews alternative MR-based methods like MR acoustic radiation force imaging (MR-ARFI), which can identify the focal spot and sound beam path, offering a complementary approach to conventional thermometry, particularly in heterogeneous or transcranial applications.
+- **当前MR测温技术分析**：本论文全面回顾了现有MR测温方法，包括广泛使用的质子共振频率（PRF）偏移技术，并讨论了其在组织运动、磁场变化和磁化率变化存在时的局限性。
+- **提出的改进**：基于已识别的局限性，本论文探索了先进的采集和处理策略，如并行成像、稀疏采样和鲁棒信号处理算法。还评估了多基线、无参考和混合测温技术，这些技术在挑战性场景中提高了测量精度。
+- **运动跟踪与补偿**：认识到器官运动（如肝脏、肾脏或心脏）的影响，该工作研究了运动跟踪解决方案，包括解剖图像图谱、光流位移检测、导航回波和快速血管跟踪。这些技术对于在温度监测期间保持空间精度至关重要。
+- **替代成像方法**：本论文回顾了基于MR的替代方法，如MR声辐射力成像（MR-ARFI），可以识别焦点和声束路径，为传统测温提供补充方法，特别是在异质性或经颅应用中。
 
-## Impact and Relevance
+## 影响与相关性
 
-The advancements proposed in this thesis have significant implications for the field of image-guided thermal therapies. By improving the robustness and accuracy of MR thermometry, especially in the presence of motion or complex tissue environments, these methods enhance the safety and effectiveness of focused ultrasound treatments. The integration of advanced motion compensation and alternative imaging strategies broadens the clinical applicability of MR-guided FUS, enabling the treatment of a wider range of anatomical targets with greater precision. Ultimately, the research contributes to the ongoing evolution of non-invasive therapeutic technologies, supporting better patient outcomes and expanding the role of MR-guided interventions in modern medicine.
+本论文提出的进展对图像引导热疗领域具有重要意义。通过提高MR测温的鲁棒性和准确性，特别是在存在运动或复杂组织环境时，这些方法增强了聚焦超声治疗的安全性和有效性。先进运动补偿和替代成像策略的集成拓宽了MR引导FUS的临床适用性，使更广泛的解剖目标能够以更高精度进行治疗。最终，该研究为非侵入性治疗技术的持续发展做出贡献，支持更好的患者结果，并扩大MR引导干预在现代医学中的作用。

@@ -1,10 +1,10 @@
 +++
-title = "Pedestrian Dead Reckoning (PDR) Using Smartphone IMU Sensors and Wireless Technologies"
+title = "基于智能手机IMU传感器与无线技术的行人航位推算（PDR）"
 date = "2025-06-01"
 authors = ["YU LINGMING"]
-tags = ["PDR", "smartphone IMU sensors", "wireless technologies", "localization"]
+tags = ["PDR", "智能手机IMU传感器", "无线技术", "定位"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,20 +24,20 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis explores the development and implementation of Pedestrian Dead Reckoning (PDR) systems utilizing smartphone inertial measurement unit (IMU) sensors in conjunction with wireless technologies. The work is situated within the broader context of indoor localization, where GPS signals are unreliable or unavailable. The thesis is presented at the Cyprus University of Technology, Faculty of Engineering and Technology, Department of Electrical Engineering, Computer Engineering, and Informatics, and supervised by Michalis Michaelides. The research addresses the growing need for accurate, real-time pedestrian tracking in environments such as large buildings, transit hubs, and industrial facilities.
+本硕士论文探讨了利用智能手机惯性测量单元（IMU）传感器结合无线技术开发与实现行人航位推算（PDR）系统。该研究背景为室内定位，其中GPS信号不可靠或不可用。论文在塞浦路斯理工大学工程与技术学院电气工程、计算机工程与信息学系完成，由Michalis Michaelides指导。该研究解决了大型建筑、交通枢纽和工业设施等环境中对准确、实时行人跟踪的日益增长需求。
 
-## Key Contributions
+## 主要贡献
 
-- **Integration of Smartphone IMU Sensors**: The thesis leverages the accelerometers, gyroscopes, and magnetometers embedded in modern smartphones to estimate pedestrian movement. By processing raw sensor data, the system can infer step detection, heading, and displacement, forming the core of the PDR approach.
+- **智能手机IMU传感器集成**：本论文利用现代智能手机中嵌入的加速度计、陀螺仪和磁力计来估计行人运动。通过处理原始传感器数据，系统能够推断步数检测、航向和位移，形成PDR方法的核心。
 
-- **Sensor Fusion Algorithms**: Advanced sensor fusion techniques are employed to combine data from multiple sensors, mitigating the effects of individual sensor biases and drifts. These algorithms are essential for filtering out erroneous readings and improving the robustness of position estimation, especially in dynamic and cluttered indoor environments.
+- **传感器融合算法**：采用先进的传感器融合技术来组合多个传感器的数据，减轻单个传感器偏差和漂移的影响。这些算法对于过滤错误读数并提高位置估计的鲁棒性至关重要，特别是在动态和复杂的室内环境中。
 
-- **Incorporation of Wireless Technologies**: The research extends traditional IMU-based PDR by integrating wireless signals (such as Wi-Fi or Bluetooth) to provide periodic corrections to the estimated trajectory. This hybrid approach addresses the inherent drift and cumulative error in IMU-only systems, enhancing long-term accuracy and reliability.
+- **无线技术集成**：该研究通过集成无线信号（如Wi-Fi或蓝牙）来扩展传统的基于IMU的PDR，为估计轨迹提供周期性校正。这种混合方法解决了仅基于IMU系统的固有漂移和累积误差，提高了长期准确性和可靠性。
 
-- **Comprehensive Evaluation**: The thesis includes experimental validation in real-world scenarios, demonstrating the effectiveness of the proposed system in accurately tracking pedestrian movement over extended periods and distances. The evaluation highlights the improvements in accuracy and robustness compared to standalone IMU-based methods.
+- **综合评估**：本论文包括在真实场景中的实验验证，展示了所提出系统在长时间和长距离准确跟踪行人运动方面的有效性。评估突出了与独立基于IMU方法相比在准确性和鲁棒性方面的改进。
 
-## Impact and Relevance
+## 影响与相关性
 
-The findings of this thesis have significant implications for the field of indoor localization and navigation. By harnessing ubiquitous smartphone sensors and augmenting them with wireless technologies, the proposed PDR system offers a cost-effective and scalable solution for real-time pedestrian tracking. This has direct applications in personal navigation, emergency response, asset tracking, and smart building management. The research also contributes to the ongoing development of sensor fusion algorithms, addressing challenges such as sensor drift, human movement variability, and environmental interference. As the demand for precise indoor positioning continues to grow, the methodologies and insights presented in this work provide a foundation for future advancements in both academic research and commercial deployment.
+本论文的研究成果对室内定位和导航领域具有重要意义。通过利用无处不在的智能手机传感器并用无线技术增强，所提出的PDR系统为实时行人跟踪提供了经济高效且可扩展的解决方案。这直接应用于个人导航、应急响应、资产跟踪和智能建筑管理。该研究还为传感器融合算法的持续发展做出贡献，解决了传感器漂移、人体运动变化和环境干扰等挑战。随着对精确室内定位需求的持续增长，本工作中提出的方法和见解为学术研究和商业部署的未来发展奠定了基础。

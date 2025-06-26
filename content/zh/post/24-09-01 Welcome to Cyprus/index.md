@@ -1,37 +1,37 @@
 ---
-title: First students arrive to Cyprus!
+title: 首批学生抵达塞浦路斯！
 date: 2024-09-01
 draft: false
 ---
 
-We welcome the first students that arrived in Cyprus for the MSc in Electronics Science and Technology!
+我们欢迎首批抵达塞浦路斯攻读电子科学与技术硕士的学生！
 
 <!--more-->
 
-We are thrilled to welcome 19 international students who have joined us for a year-long stay to complete their MSc in Electronics Science and Technology. These talented individuals will be conducting groundbreaking research in diverse areas such as:
+我们很高兴欢迎19名国际学生加入我们，他们将在这里进行为期一年的学习，完成电子科学与技术硕士学位。这些才华横溢的个体将在以下多样化领域进行开创性研究：
 
-🔬 MRI-guided focused ultrasound
+🔬 磁共振引导聚焦超声
 
-🌐 Predictive maintenance for smart ports
+🌐 智能港口预测性维护
 
-📦 Detection of broken seals on containers
+📦 集装箱破损封条检测
 
-⚡ High-power switching devices
+⚡ 高功率开关器件
 
-🔍 Prostate cancer prediction
+🔍 前列腺癌预测
 
-🚁 UAV indoor localization and navigation
+🚁 无人机室内定位与导航
 
-💧 Fluid impact in microfluidics
+💧 微流控中的流体冲击
 
-🌱 Crop health monitoring
+🌱 作物健康监测
 
-🔒 IoT security with blockchain
+🔒 基于区块链的物联网安全
 
-🖼️ Stable diffusion models for text to image
+🖼️ 文本到图像的稳定扩散模型
 
-💡 Optical fiber sensors for biomedical applications
+💡 生物医学应用的光纤传感器
 
-We look forward to the innovative contributions they will bring to our community. Welcome to CUT! 🎓✨
+我们期待他们为我们的社区带来的创新贡献。欢迎来到CUT！🎓✨
 
-#CUTResearch #Innovation #ElectronicsScience #WelcomeStudents #GlobalCollaboration
+#CUT研究 #创新 #电子科学 #欢迎学生 #全球合作

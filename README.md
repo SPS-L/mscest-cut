@@ -1,48 +1,91 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# MSc in Electronics and Technology
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+[![Website](https://img.shields.io/badge/Website-mscet.cut.ac.cy-blue)](https://mscet.cut.ac.cy/)
+[![Hugo](https://img.shields.io/badge/Built%20with-Hugo-orange)](https://gohugo.io/)
+[![Theme](https://img.shields.io/badge/Theme-Wowchemy%20Research%20Group-green)](https://wowchemy.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+Official website for the joint **MSc in Electronics Science and Technology** program between the [Cyprus University of Technology](https://cut.ac.cy) (CUT) in Cyprus and [Hangzhou Dianzi University](https://www.hdu.edu.cn) (HDU) in China.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## About the Program
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+This is a collaborative master's program that combines the expertise of two leading institutions in electronics and technology education. The program offers:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+- **International Collaboration**: Joint degree from CUT (Cyprus) and HDU (China)
+- **Comprehensive Curriculum**: 6-semester program covering electronics, technology, and research
+- **Research Focus**: Emphasis on practical research and thesis work
+- **Multilingual Support**: Website available in English and Chinese
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+## Website Features
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+- **Program Information**: Detailed course structure across 6 semesters
+- **Faculty Profiles**: Meet the academic staff and coordinators
+- **Publications**: Latest research publications from students and faculty
+- **News & Updates**: Program announcements and latest developments
+- **Contact Information**: Easy access to program coordinators
+- **Multilingual**: Full support for English and Chinese languages
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+## Technology Stack
 
-## We ask you, humbly, to support this open source movement
+- **Static Site Generator**: [Hugo](https://gohugo.io/)
+- **Theme**: [Wowchemy Research Group Theme](https://wowchemy.com/hugo-themes/)
+- **Deployment**: Netlify
+- **Content Management**: Markdown-based with Hugo shortcodes
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+## Local Development
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### Prerequisites
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+- [Hugo Extended](https://gohugo.io/installation/) (version 0.80.0 or higher)
+- [Go](https://golang.org/dl/) (for Hugo modules)
 
-## Demo credits
+### Setup
 
-Please replace the demo images with your own.
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd mscet
+   ```
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+2. Install Hugo modules:
+   ```bash
+   hugo mod get
+   ```
+
+3. Start the development server:
+   ```bash
+   hugo server
+   ```
+
+4. Open [http://localhost:1313](http://localhost:1313) in your browser
+
+### Content Structure
+
+- `content/en/` - English content
+- `content/zh/` - Chinese content
+- `content/en/program/` - Program information and courses
+- `content/en/authors/` - Faculty profiles
+- `content/en/publication/` - Research publications
+- `content/en/post/` - News and announcements
+
+## Deployment
+
+The website is automatically deployed to Netlify when changes are pushed to the main branch. The live site is available at [https://mscet.cut.ac.cy/](https://mscet.cut.ac.cy/).
+
+## Contributing
+
+To update content:
+
+1. Edit the appropriate Markdown files in the `content/` directory
+2. Test locally with `hugo server`
+3. Commit and push changes
+4. Netlify will automatically rebuild and deploy
+
+## Contact
+
+For questions about the program or website:
+- **Program Coordinators**: See the [People](/people) page
+- **Technical Issues**: Contact the web development team
+
+## License
+
+This website is built using the [Wowchemy Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group) which is licensed under the MIT License.

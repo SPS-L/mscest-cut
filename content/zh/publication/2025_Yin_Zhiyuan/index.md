@@ -1,10 +1,10 @@
 +++
-title = "Research on MEMS Accelerometers Based on Silicon Nanowire Arrays"
+title = "基于硅纳米线阵列的MEMS加速度计研究"
 date = "2025-06-01"
 authors = ["Yin Zhiyuan"]
-tags = ["MEMS", "accelerometers", "silicon nanowire arrays", "sensors"]
+tags = ["MEMS", "加速度计", "硅纳米线阵列", "传感器"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,19 +24,19 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis investigates the development and performance of MEMS (Micro-Electro-Mechanical Systems) accelerometers that utilize silicon nanowire arrays as their core sensing elements. The research is situated within the broader context of sensor miniaturization and enhanced sensitivity, which are critical for modern applications in consumer electronics, automotive systems, and industrial monitoring. The work is conducted at the Cyprus University of Technology, under the supervision of Professor Kyriacos Kalli, and represents a comprehensive study into the integration of nanostructured materials with MEMS technology.
+本硕士论文研究了以硅纳米线阵列为核心敏感元件的MEMS（微机电系统）加速度计的开发与性能。该研究背景为传感器小型化与灵敏度提升，这对于现代消费电子、汽车系统和工业监测等应用至关重要。论文在塞浦路斯理工大学完成，由Kyriacos Kalli教授指导，系统研究了纳米结构材料与MEMS技术的集成。
 
-## Key Contributions
+## 主要贡献
 
-- The thesis presents a detailed analysis of the design, fabrication, and characterization of MEMS accelerometers based on silicon nanowire arrays. These nanowires serve as the primary transduction mechanism, offering improved mechanical and electrical properties compared to conventional bulk materials.
-- It explores the unique advantages of silicon nanowires, such as their high surface-to-volume ratio and tunable electrical characteristics, which contribute to increased sensitivity and lower detection thresholds for acceleration signals.
-- The research includes experimental results and simulations that demonstrate the performance enhancements achieved by incorporating nanowire arrays into MEMS accelerometer structures. This includes data on sensitivity, frequency response, and noise characteristics, benchmarked against traditional MEMS accelerometers.
-- The thesis also addresses fabrication challenges, proposing solutions for reliable integration of nanowire arrays with standard MEMS processes, ensuring compatibility with existing manufacturing infrastructure.
+- 本论文详细分析了基于硅纳米线阵列的MEMS加速度计的设计、制造与表征。这些纳米线作为主要的能量转换机制，相较于传统块体材料，具有更优的机械和电学性能。
+- 探讨了硅纳米线的独特优势，如高比表面积和可调电学特性，这些特性有助于提升灵敏度并降低加速度信号的检测阈值。
+- 研究包括实验结果和仿真，展示了将纳米线阵列集成到MEMS加速度计结构后性能的提升，包括灵敏度、频率响应和噪声特性，并与传统MEMS加速度计进行了对比。
+- 本论文还解决了制造过程中的挑战，提出了纳米线阵列与标准MEMS工艺可靠集成的解决方案，确保与现有制造基础设施的兼容性。
 
-## Impact and Relevance
+## 影响与相关性
 
-The findings of this thesis have significant implications for the future of sensor technology. By leveraging silicon nanowire arrays, the research contributes to the ongoing trend of miniaturization in MEMS devices, enabling the development of smaller, more sensitive, and energy-efficient accelerometers. These advancements are particularly relevant for emerging applications in wearable devices, IoT (Internet of Things) sensors, and precision instrumentation, where size, power consumption, and sensitivity are paramount.
+本论文的研究成果对传感器技术的未来具有重要意义。通过利用硅纳米线阵列，推动了MEMS器件的小型化趋势，使得加速度计更小型、更灵敏且更节能。这些进步对于可穿戴设备、物联网传感器和高精度仪器等新兴应用尤为相关，对尺寸、功耗和灵敏度有极高要求。
 
-Moreover, the work provides a foundation for further research into nanostructured materials within MEMS, potentially extending to other types of sensors and transducers. The demonstrated improvements in performance and manufacturability suggest that silicon nanowire-based MEMS accelerometers could become a new standard in high-performance sensing, influencing both academic research and industrial product development.
+此外，该工作为纳米结构材料在MEMS中的进一步研究奠定了基础，未来可扩展到其他类型的传感器和换能器。性能和可制造性的提升表明，基于硅纳米线的MEMS加速度计有望成为高性能传感领域的新标准，影响学术研究和工业产品开发。

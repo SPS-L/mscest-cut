@@ -1,10 +1,10 @@
 +++
-title = "Development and Validation of Compact Models for Si IGBTs and SiC MOSFETs in Power Electronic Systems"
+title = "功率电子系统中Si IGBT与SiC MOSFET的紧凑模型开发与验证"
 date = "2025-06-01"
 authors = ["Yifan Li"]
-tags = ["Si IGBTs", "SiC MOSFETs", "compact modeling", "power electronic systems"]
+tags = ["Si IGBT", "SiC MOSFET", "紧凑建模", "功率电子系统"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,22 +24,22 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, authored by Yifan Li at the Cyprus University of Technology, addresses the development and validation of compact models for two critical semiconductor devices: silicon insulated-gate bipolar transistors (Si IGBTs) and silicon carbide metal-oxide-semiconductor field-effect transistors (SiC MOSFETs). These devices are widely used in modern power electronic systems due to their efficiency, switching speed, and robustness. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a strong interdisciplinary approach to advancing power electronics modeling.
+本硕士论文由Yifan Li在塞浦路斯理工大学完成，研究了两类关键半导体器件——硅绝缘栅双极型晶体管（Si IGBT）和碳化硅金属氧化物半导体场效应晶体管（SiC MOSFET）——的紧凑模型开发与验证。这些器件因其高效、开关速度快和鲁棒性强而广泛应用于现代功率电子系统。论文隶属于电气工程、计算机工程与信息学系，体现了功率电子建模领域的多学科交叉。
 
-## Key Contributions
+## 主要贡献
 
-- **Comprehensive Compact Modeling:** The thesis presents the development of compact, physics-based models for both Si IGBTs and SiC MOSFETs. These models are designed to accurately capture the electrical behavior of the devices under various operating conditions, enabling more reliable simulation and design of power electronic circuits.
+- **全面的紧凑建模**：本论文开发了基于物理的Si IGBT和SiC MOSFET紧凑模型。这些模型能够在多种工作条件下准确反映器件的电气行为，为功率电子电路的可靠仿真与设计提供支持。
 
-- **Validation and Benchmarking:** The developed models are rigorously validated against experimental data and industry-standard benchmarks. This ensures that the models not only reflect theoretical accuracy but also practical applicability in real-world scenarios.
+- **验证与基准测试**：所开发模型经过实验数据和行业标准基准的严格验证，确保模型不仅理论准确，也具备实际应用价值。
 
-- **Application in System-Level Simulations:** By integrating the compact models into system-level simulation environments, the thesis demonstrates their effectiveness in predicting the performance of power converters and other power electronic systems. This integration is crucial for engineers aiming to optimize system efficiency, reliability, and cost.
+- **系统级仿真应用**：通过将紧凑模型集成到系统级仿真环境中，论文展示了其在预测功率变换器及其他功率电子系统性能方面的有效性。这对于工程师优化系统效率、可靠性和成本至关重要。
 
-- **Focus on Emerging Technologies:** The inclusion of SiC MOSFETs highlights the thesis's relevance to emerging trends in power electronics, as silicon carbide technology is increasingly adopted for its superior performance in high-voltage, high-frequency applications compared to traditional silicon devices.
+- **关注新兴技术**：论文对SiC MOSFET的研究凸显了其在高压高频应用中的优越性能，顺应了功率电子领域向碳化硅技术转型的趋势。
 
-## Impact and Relevance
+## 影响与相关性
 
-The research presented in this thesis contributes significantly to the field of power electronics by providing robust, validated models that can be used by both academia and industry. Accurate compact models are essential for the rapid prototyping and optimization of power electronic systems, reducing development time and costs. The focus on both Si IGBTs and SiC MOSFETs ensures that the findings are applicable to a wide range of current and next-generation applications, from renewable energy systems to electric vehicles and industrial automation.
+本论文为功率电子领域提供了坚实、可验证的模型，服务于学术界和工业界。准确的紧凑模型对于功率电子系统的快速原型开发和优化至关重要，有助于缩短开发周期和降低成本。论文同时关注Si IGBT与SiC MOSFET，确保研究成果适用于从可再生能源系统到电动汽车和工业自动化等广泛应用。
 
-Furthermore, the work supports the ongoing transition toward more efficient and reliable power conversion technologies, aligning with global trends in energy sustainability and electrification. By bridging the gap between device-level physics and system-level performance, this thesis lays the groundwork for future innovations in power electronics design and simulation.
+此外，该研究支持了功率变换技术向更高效、更可靠方向的持续转型，契合全球能源可持续与电气化趋势。通过弥合器件物理与系统级性能之间的鸿沟，论文为未来功率电子设计与仿真创新奠定了基础。

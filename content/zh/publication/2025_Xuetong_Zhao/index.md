@@ -1,10 +1,10 @@
 +++
-title = "Predictability of complex networks"
+title = "复杂网络的可预测性"
 date = "2025-06-01"
 authors = ["Xuetong Zhao"]
-tags = ["complex networks", "predictability", "network analysis", "network science"]
+tags = ["复杂网络", "可预测性", "网络分析", "网络科学"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,24 +24,24 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, titled **Predictability of complex networks** by Xuetong Zhao, investigates the fundamental question of how predictable the behavior and evolution of complex networks are. Complex networks—such as social, biological, and technological systems—exhibit intricate structures and dynamic behaviors that challenge traditional analytical methods. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at Cyprus University of Technology, and was completed under the supervision of Fragkiskos Papadopoulos in February 2024.
+本硕士论文《复杂网络的可预测性》由Xuetong Zhao撰写，研究了复杂网络行为和演化的可预测性这一基本问题。复杂网络——如社交、生物和技术系统——表现出挑战传统分析方法的复杂结构和动态行为。本论文在塞浦路斯理工大学电气工程、计算机工程与信息学系进行，于2024年2月在Fragkiskos Papadopoulos指导下完成。
 
-The work addresses the theoretical and practical aspects of network predictability, exploring the extent to which future states or structural changes in a network can be anticipated based on current information. The study leverages recent advances in network science, statistical mechanics, and computational modeling to analyze both synthetic and real-world network data.
+该研究解决了网络可预测性的理论和实践方面，探索了基于当前信息预测网络未来状态或结构变化的程度。该研究利用网络科学、统计力学和计算建模的最新进展来分析合成和真实世界的网络数据。
 
-## Key Contributions
+## 主要贡献
 
-- **Theoretical Framework:** The thesis develops a rigorous framework for quantifying predictability in complex networks. This includes defining appropriate metrics and criteria for assessing how well future network configurations or dynamics can be forecasted from present data.
+- **理论框架**：本论文为量化复杂网络中的可预测性建立了严格的框架。这包括定义适当的指标和标准，用于评估从当前数据预测未来网络配置或动态的能力。
 
-- **Methodological Advances:** It introduces or adapts analytical and computational techniques—potentially including machine learning, statistical inference, and random walk models—to assess and improve predictability. The work may also compare the effectiveness of different approaches across various types of networks.
+- **方法论进展**：它引入或适配分析和计算技术——可能包括机器学习、统计推断和随机游走模型——来评估和改进可预测性。该工作还可能比较不同方法在各种类型网络中的有效性。
 
-- **Empirical Evaluation:** The research applies the proposed methods to a range of network datasets, demonstrating how predictability varies with network topology, size, and the nature of interactions. Results likely highlight which structural features (e.g., degree distribution, clustering, modularity) enhance or limit predictability.
+- **实证评估**：该研究将所提出的方法应用于一系列网络数据集，展示了可预测性如何随网络拓扑、规模和交互性质而变化。结果可能突出哪些结构特征（如度分布、聚类、模块性）增强或限制可预测性。
 
-- **Case Studies:** By examining specific real-world networks (such as social, communication, or biological systems), the thesis illustrates the practical implications of its findings, showing how predictability insights can inform network design, intervention strategies, or risk assessment.
+- **案例研究**：通过检查特定的真实世界网络（如社交、通信或生物系统），本论文说明了其发现的实际意义，展示了可预测性洞察如何为网络设计、干预策略或风险评估提供信息。
 
-## Impact and Relevance
+## 影响与相关性
 
-The thesis makes significant contributions to the field of network science by clarifying the limits and possibilities of predicting complex network behavior. Understanding predictability is crucial for a wide range of applications, including epidemic modeling, infrastructure resilience, information diffusion, and cybersecurity. By providing a systematic approach to measuring and enhancing predictability, the research offers valuable tools for scientists and engineers working with complex systems.
+本论文通过澄清预测复杂网络行为的限制和可能性，为网络科学领域做出了重要贡献。理解可预测性对于广泛的应用至关重要，包括流行病建模、基础设施韧性、信息传播和网络安全。通过提供测量和增强可预测性的系统方法，该研究为从事复杂系统工作的科学家和工程师提供了有价值的工具。
 
-Moreover, the findings have broader implications for the design and management of networked systems. Improved predictability can lead to more effective control strategies, better resource allocation, and enhanced robustness against failures or attacks. The thesis thus serves as a bridge between theoretical insights and practical applications, advancing both the science and engineering of complex networks.
+此外，这些发现对网络系统的设计和管理具有更广泛的意义。改进的可预测性可以导致更有效的控制策略、更好的资源分配和增强的故障或攻击鲁棒性。因此，本论文作为理论洞察和实际应用之间的桥梁，推进了复杂网络的科学和工程。

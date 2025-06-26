@@ -1,10 +1,10 @@
 +++
-title = "IAQ prediction and IAQ improvement strategy based on ETSformer neural network"
+title = "基于ETSformer神经网络的室内空气质量预测与改善策略"
 date = "2025-06-01"
 authors = ["Zhou Zhou"]
-tags = ["IAQ", "ETSformer neural network", "air quality prediction", "improvement strategy"]
+tags = ["室内空气质量", "ETSformer神经网络", "空气质量预测", "改善策略"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,22 +24,22 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, authored by Zhou Zhou at Cyprus University of Technology in June 2025, explores the prediction of indoor air quality (IAQ) and the development of improvement strategies using the ETSformer neural network. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a multidisciplinary approach that combines environmental science, machine learning, and engineering. The thesis addresses the growing need for accurate IAQ forecasting and actionable strategies to mitigate air pollution in indoor environments, which is critical for public health and environmental management.
+本硕士论文由Zhou Zhou于2025年6月在塞浦路斯理工大学完成，探讨了使用ETSformer神经网络预测室内空气质量（IAQ）并制定改善策略。该研究隶属于电气工程、计算机工程与信息学系，体现了结合环境科学、机器学习和工程学的多学科方法。本论文解决了对准确IAQ预测和缓解室内环境空气污染可操作策略的日益增长需求，这对公共卫生和环境管理至关重要。
 
-## Key Contributions
+## 主要贡献
 
-- **Application of ETSformer Neural Network:** The thesis leverages the ETSformer neural network architecture, a state-of-the-art model for time series prediction, to forecast IAQ levels. This approach builds on recent advances in transformer-based models, which have demonstrated superior performance in capturing complex spatiotemporal dependencies in environmental data.
+- **ETSformer神经网络应用**：本论文利用ETSformer神经网络架构（一种用于时间序列预测的最先进模型）来预测IAQ水平。这种方法基于基于transformer模型的最新进展，这些模型在捕获环境数据中复杂的时空依赖性方面表现出色。
 
-- **Development of IAQ Improvement Strategies:** Beyond prediction, the thesis proposes practical strategies for improving IAQ based on model outputs. These strategies are tailored to real-world scenarios, considering both technical feasibility and potential impact on occupant health and comfort.
+- **IAQ改善策略开发**：除了预测之外，本论文基于模型输出提出了改善IAQ的实用策略。这些策略针对真实世界场景定制，考虑了技术可行性和对居住者健康和舒适度的潜在影响。
 
-- **Integration of Data Sources:** The research integrates multiple data streams, including sensor measurements and contextual information, to enhance the robustness and accuracy of IAQ predictions. This holistic data-driven methodology enables more reliable decision-making for building management and policy interventions.
+- **数据源集成**：该研究集成了多个数据流，包括传感器测量和上下文信息，以增强IAQ预测的鲁棒性和准确性。这种整体数据驱动方法为建筑管理和政策干预提供了更可靠的决策支持。
 
-- **Evaluation and Validation:** The thesis includes a comprehensive evaluation of the ETSformer model's predictive performance, benchmarking it against existing methods. The results demonstrate notable improvements in forecasting accuracy, underscoring the potential of transformer-based neural networks in environmental applications.
+- **评估与验证**：本论文包括对ETSformer模型预测性能的综合评估，与现有方法进行基准测试。结果显示了预测精度的显著改进，突出了基于transformer的神经网络在环境应用中的潜力。
 
-## Impact and Relevance
+## 影响与相关性
 
-The findings of this thesis have significant implications for both academic research and practical implementation. By demonstrating the efficacy of the ETSformer neural network in IAQ prediction, the work contributes to the advancement of machine learning methodologies in environmental monitoring. The proposed improvement strategies offer actionable insights for stakeholders, including building managers, policymakers, and health professionals, aiming to reduce indoor air pollution and its associated health risks.
+本论文的研究成果对学术研究和实际实施都具有重要意义。通过证明ETSformer神经网络在IAQ预测中的有效性，该工作为环境监测中机器学习方法的进步做出贡献。提出的改善策略为利益相关者（包括建筑管理者、政策制定者和健康专业人员）提供了可操作的见解，旨在减少室内空气污染及其相关健康风险。
 
-Moreover, the integration of advanced neural architectures with real-world IAQ management exemplifies the potential for interdisciplinary solutions to complex environmental challenges. As concerns about indoor air quality continue to rise globally, especially in the context of urbanization and increased time spent indoors, this research provides a timely and impactful contribution to the field.
+此外，先进神经架构与真实世界IAQ管理的集成体现了跨学科解决方案应对复杂环境挑战的潜力。随着全球对室内空气质量的关注持续上升，特别是在城市化和室内时间增加的背景下，本研究为该领域提供了及时且有影响力的贡献。

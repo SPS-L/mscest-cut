@@ -1,10 +1,10 @@
 +++
-title = "IoT and blockchain-based human health monitoring system"
+title = "基于物联网与区块链的人体健康监测系统"
 date = "2025-06-01"
 authors = ["Jun Chen"]
-tags = ["IoT", "blockchain", "health monitoring", "human health"]
+tags = ["物联网", "区块链", "健康监测", "人体健康"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,22 +24,22 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis, titled *IoT and blockchain-based human health monitoring system* by Jun Chen, explores the integration of Internet of Things (IoT) technologies with blockchain to develop a secure, efficient, and scalable human health monitoring system. The work is situated within the context of increasing demands for remote health monitoring, especially highlighted by the COVID-19 pandemic and the broader shift toward digital healthcare. The thesis is submitted to the Department of Electrical Engineering, Computer Engineering, and Informatics at Cyprus University of Technology, under the supervision of Andreas Andreou.
+本硕士论文《基于物联网与区块链的人体健康监测系统》由Jun Chen撰写，探讨了物联网（IoT）技术与区块链的集成，以开发一个安全、高效且可扩展的人体健康监测系统。该研究背景为远程健康监测需求的不断增长，尤其是在COVID-19疫情和医疗数字化转型的大背景下。论文提交至塞浦路斯理工大学电气工程、计算机工程与信息学系，由Andreas Andreou指导。
 
-## Key Contributions
+## 主要贡献
 
-- **System Architecture**: The thesis proposes a novel architecture that leverages IoT devices for real-time health data collection and blockchain technology for secure, tamper-proof storage and sharing of sensitive health information. The system aims to address key challenges in healthcare data management, including privacy, data integrity, and accessibility.
+- **系统架构**：本论文提出了一种新颖的架构，利用物联网设备进行实时健康数据采集，并通过区块链技术实现敏感健康信息的安全、防篡改存储与共享。该系统旨在解决医疗数据管理中的关键问题，包括隐私保护、数据完整性和可访问性。
 
-- **Security and Privacy**: By utilizing blockchain's decentralized and immutable ledger, the system ensures that health records are resistant to unauthorized access and tampering. This approach enhances patient trust and meets stringent data protection requirements.
+- **安全与隐私**：通过采用区块链的去中心化和不可篡改账本，系统确保健康记录免受未授权访问和篡改。这一方法增强了患者信任，并满足严格的数据保护要求。
 
-- **Remote Monitoring and Accessibility**: The integration of IoT allows for continuous and remote health monitoring, reducing the need for frequent hospital visits. Patients can update their health status via mobile devices, and healthcare professionals can monitor patient data in real time, facilitating timely interventions and personalized care.
+- **远程监测与可访问性**：物联网的集成实现了持续、远程的健康监测，减少了频繁就医的需求。患者可通过移动设备更新健康状态，医疗专业人员可实时监控患者数据，实现及时干预和个性化护理。
 
-- **Practical Implementation**: The thesis discusses the practical aspects of deploying such a system, including device interoperability, data synchronization, and user interfaces for both patients and healthcare providers. It also addresses potential scalability issues and outlines strategies for system optimization.
+- **实际部署**：论文讨论了系统部署的实际问题，包括设备互操作性、数据同步，以及面向患者和医疗服务者的用户界面设计。同时还分析了系统的可扩展性问题，并提出了优化策略。
 
-## Impact and Relevance
+## 影响与相关性
 
-The proposed system has significant implications for the future of healthcare delivery. By combining IoT and blockchain, it offers a robust solution to some of the most pressing challenges in digital health, such as data security, patient privacy, and the need for scalable remote monitoring solutions. The approach is particularly relevant in the post-pandemic era, where minimizing physical contact and enabling remote care have become priorities.
+所提出的系统对未来医疗服务模式具有重要意义。通过结合物联网与区块链技术，系统为数字健康领域中最紧迫的数据安全、患者隐私和可扩展远程监测等挑战提供了有力解决方案。该方法在后疫情时代尤为重要，因其可最大限度减少物理接触并支持远程医疗。
 
-The thesis contributes to the academic discourse by providing a comprehensive framework that can be adapted or extended for various healthcare applications, including chronic disease management, elderly care, and public health monitoring. Its emphasis on security and usability makes it a valuable reference for researchers, practitioners, and policymakers interested in the intersection of emerging technologies and healthcare innovation.
+本论文为学术界提供了一个可适配、可扩展的综合框架，适用于慢性病管理、老年护理和公共健康监测等多种医疗应用。其对安全性和可用性的重视，使其成为关注新兴技术与医疗创新交叉领域的研究者、从业者和政策制定者的重要参考。

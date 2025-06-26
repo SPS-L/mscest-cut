@@ -1,10 +1,10 @@
 +++
-title = "Comparison of hyperbolic embedding methods for real-world networks: Machine Learning versus Network Science"
+title = "真实世界网络双曲嵌入方法比较：机器学习与网络科学"
 date = "2025-06-01"
 authors = ["ZHOU HAOJIE"]
-tags = ["hyperbolic embedding", "real-world networks", "machine learning", "network science"]
+tags = ["双曲嵌入", "真实世界网络", "机器学习", "网络科学"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,20 +24,20 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This thesis, authored by Zhou Haojie at the Cyprus University of Technology, presents a comprehensive comparative study of hyperbolic embedding methods applied to real-world networks, focusing on the intersection and contrast between machine learning approaches and traditional network science techniques. Hyperbolic embeddings have become a powerful tool for representing complex network data, enabling more efficient analysis of structural properties and facilitating downstream tasks such as link prediction, classification, and anomaly detection. The work is situated at the confluence of two rapidly evolving fields—machine learning and network science—each offering distinct methodologies for network representation and analysis.
+本论文由塞浦路斯理工大学的Zhou Haojie撰写，对应用于真实世界网络的双曲嵌入方法进行了全面的比较研究，重点关注机器学习方法与传统网络科学技术之间的交叉和对比。双曲嵌入已成为表示复杂网络数据的强大工具，能够更高效地分析结构特性并促进下游任务，如链接预测、分类和异常检测。该工作位于两个快速发展的领域——机器学习和网络科学——的交汇处，每个领域都为网络表示和分析提供了独特的方法论。
 
-## Key Contributions
+## 主要贡献
 
-- **Systematic Comparison:** The thesis systematically compares state-of-the-art hyperbolic embedding methods from both machine learning and network science perspectives. It evaluates their performance on a variety of real-world networks, considering multiple downstream tasks such as mapping accuracy, greedy routing, and link prediction. This dual perspective allows for a nuanced understanding of the strengths and limitations inherent to each methodological tradition.
+- **系统比较**：本论文从机器学习和网络科学两个角度系统比较了最先进的双曲嵌入方法。它在各种真实世界网络上评估了它们的性能，考虑了多个下游任务，如映射精度、贪婪路由和链接预测。这种双重视角允许对每种方法论传统固有的优势和局限性进行细致理解。
 
-- **Evaluation Metrics:** The study employs a range of quantitative metrics to assess embedding quality, including computational complexity, scalability, and sensitivity to network characteristics like degree distribution, modularity, and clustering coefficient. By doing so, it provides a holistic view of how different embedding strategies perform under diverse network conditions.
+- **评估指标**：该研究采用了一系列定量指标来评估嵌入质量，包括计算复杂度、可扩展性以及对度分布、模块性和聚类系数等网络特征的敏感性。通过这样做，它提供了不同嵌入策略在多样化网络条件下如何表现的整体视图。
 
-- **Integration of Approaches:** The thesis explores the potential for integrating data-driven machine learning models with model-based network science methods. It highlights the flexibility of machine learning approaches, which do not rely on strong generative assumptions, and contrasts this with the interpretability and theoretical grounding of network science models. The work also discusses recent advances in embedding multilayer networks and the use of the Poincaré disk model for improved geometric representation and interpretability.
+- **方法集成**：本论文探索了将数据驱动的机器学习模型与基于模型的网络科学方法集成的潜力。它突出了机器学习方法的灵活性，这些方法不依赖于强生成假设，并与网络科学模型的可解释性和理论基础形成对比。该工作还讨论了多层网络嵌入的最新进展以及使用庞加莱圆盘模型来改善几何表示和可解释性。
 
-- **Practical Insights:** Through extensive experimentation, the thesis identifies practical trade-offs between embedding accuracy, computational efficiency, and applicability to different types of networks. It offers guidance for practitioners on selecting appropriate embedding methods based on specific network properties and analytic goals.
+- **实践洞察**：通过大量实验，本论文识别了嵌入精度、计算效率和适用于不同类型网络之间的实际权衡。它为从业者基于特定网络属性和分析目标选择适当的嵌入方法提供了指导。
 
-## Impact and Relevance
+## 影响与相关性
 
-This thesis makes a significant contribution to both the theoretical and practical understanding of hyperbolic network embeddings. By bridging the gap between machine learning and network science, it advances the state of the art in network representation learning and provides actionable insights for researchers and practitioners working with complex network data. The findings are particularly relevant for applications in social network analysis, biological network modeling, cybersecurity, and any domain where understanding the latent geometry of networked systems is crucial. The comparative framework and recommendations established in this work are poised to inform future research and development of more robust, scalable, and interpretable network embedding algorithms.
+本论文对双曲网络嵌入的理论和实践理解做出了重要贡献。通过弥合机器学习和网络科学之间的差距，它推进了网络表示学习的最新技术，并为从事复杂网络数据工作的研究人员和从业者提供了可操作的见解。这些发现在社交网络分析、生物网络建模、网络安全以及理解网络系统潜在几何形状至关重要的任何领域都特别相关。本工作中建立的比较框架和建议有望为更鲁棒、可扩展和可解释的网络嵌入算法的未来研究和开发提供信息。

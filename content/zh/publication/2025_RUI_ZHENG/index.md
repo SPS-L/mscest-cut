@@ -1,10 +1,10 @@
 +++
-title = "Design of an Offshore Marine Environment Buoy Monitoring Platform Based on LoRa Wireless Technology"
+title = "基于LoRa无线技术的海上海洋环境浮标监测平台设计"
 date = "2025-06-01"
 authors = ["RUI ZHENG"]
-tags = ["LoRa", "marine monitoring", "offshore buoy", "wireless technology"]
+tags = ["LoRa", "海洋监测", "海上浮标", "无线技术"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,26 +24,26 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This thesis presents the design and development of an offshore marine environment buoy monitoring platform that leverages LoRa wireless technology for data transmission. The work is situated within the context of increasing demand for real-time, reliable, and cost-effective environmental monitoring in marine settings. Traditional marine monitoring systems often rely on cellular or satellite communications, which can be expensive and limited by coverage, especially in remote offshore locations. By utilizing LoRa (Long Range) wireless technology, the proposed platform aims to overcome these challenges, enabling long-range, low-power, and scalable data collection from marine buoys.
+本论文提出了一个基于LoRa无线技术进行数据传输的海上海洋环境浮标监测平台的设计与开发。该研究背景为海洋环境中对实时、可靠且经济高效的环境监测需求的不断增长。传统海洋监测系统通常依赖蜂窝或卫星通信，这些方式成本高昂且受覆盖范围限制，特别是在偏远的海上位置。通过利用LoRa（长距离）无线技术，所提出的平台旨在克服这些挑战，实现从海洋浮标进行长距离、低功耗且可扩展的数据采集。
 
-The thesis is authored by Rui Zheng and submitted to the Department of Electrical Engineering, Computer Engineering, and Informatics at the Cyprus University of Technology. The research addresses the technical requirements and operational constraints of deploying sensor-equipped buoys in harsh marine environments, focusing on robust communication, energy efficiency, and system reliability.
+本论文由Rui Zheng撰写并提交至塞浦路斯理工大学电气工程、计算机工程与信息学系。该研究解决了在恶劣海洋环境中部署配备传感器的浮标的技术要求和操作约束，重点关注稳健通信、能源效率和系统可靠性。
 
-## Key Contributions
+## 主要贡献
 
-- **System Architecture:** The thesis details the architecture of the monitoring platform, which integrates multiple environmental sensors with a LoRa-enabled communication module. This setup allows the buoy to collect data such as water quality, temperature, and other relevant environmental parameters, transmitting them wirelessly over long distances to a central gateway or cloud-based system for analysis.
+- **系统架构**：本论文详细描述了监测平台的架构，该架构将多个环境传感器与支持LoRa的通信模块集成。这种设置使浮标能够收集水质、温度和其他相关环境参数的数据，并通过无线方式长距离传输到中央网关或基于云的系统进行分析。
 
-- **LoRa Wireless Integration:** A significant contribution is the adaptation of LoRa technology for marine applications. The platform demonstrates how LoRa's long-range, low-power capabilities are particularly suited for offshore deployments, where traditional communication networks are unavailable or unreliable. The thesis discusses hardware selection, network topology, and the optimization of data transmission protocols to ensure efficient and reliable operation.
+- **LoRa无线集成**：一个重要贡献是将LoRa技术适配到海洋应用中。该平台展示了LoRa的长距离、低功耗特性特别适合海上部署，而传统通信网络在这些地方不可用或不可靠。论文讨论了硬件选择、网络拓扑和数据传输协议的优化，以确保高效可靠的运行。
 
-- **Energy Management:** The design incorporates energy-efficient strategies, including low-power electronics and the potential for renewable energy sources (such as solar panels) to extend operational life. This is critical for minimizing maintenance and ensuring continuous data collection in remote locations.
+- **能源管理**：该设计集成了节能策略，包括低功耗电子设备和可再生能源（如太阳能板）的潜力，以延长运行寿命。这对于在偏远位置最小化维护并确保连续数据采集至关重要。
 
-- **Prototyping and Testing:** The research includes the prototyping of the buoy platform and field testing to validate system performance. Results demonstrate the feasibility of using LoRa for real-time, continuous environmental monitoring in marine settings, with reliable data transmission over significant distances and under challenging conditions.
+- **原型制作与测试**：该研究包括浮标平台的原型制作和现场测试，以验证系统性能。结果证明了在海洋环境中使用LoRa进行实时、连续环境监测的可行性，在显著距离和挑战性条件下实现可靠的数据传输。
 
-## Impact and Relevance
+## 影响与相关性
 
-The thesis makes a substantial contribution to the field of marine environmental monitoring by providing a practical, scalable, and cost-effective solution for offshore data collection. The use of LoRa technology addresses key limitations of existing systems, notably reducing operational costs and extending monitoring coverage to areas previously inaccessible due to communication constraints.
+本论文通过为海上数据采集提供实用、可扩展且经济高效的解决方案，为海洋环境监测领域做出了实质性贡献。LoRa技术的使用解决了现有系统的关键限制，显著降低了运营成本并将监测覆盖范围扩展到以前因通信限制而无法访问的区域。
 
-This work is highly relevant for stakeholders in marine research, environmental protection agencies, and maritime industries that require accurate and timely environmental data for decision-making, regulatory compliance, and ecosystem management. The platform's modular design allows for easy adaptation to various monitoring needs, supporting a wide range of sensor types and deployment scenarios.
+该工作对海洋研究、环境保护机构和海事行业的利益相关者具有高度相关性，这些机构需要准确及时的环境数据用于决策制定、法规合规和生态系统管理。该平台的模块化设计允许轻松适配各种监测需求，支持广泛的传感器类型和部署场景。
 
-By demonstrating the viability of LoRa-based marine monitoring, the thesis paves the way for broader adoption of IoT technologies in oceanographic research and environmental stewardship. Its findings can inform future developments in smart buoy networks, real-time data analytics, and integrated marine observation systems, contributing to the advancement of sustainable marine resource management.
+通过证明基于LoRa的海洋监测的可行性，本论文为在海洋学研究和环境管理中更广泛采用物联网技术铺平了道路。其发现可为智能浮标网络、实时数据分析和集成海洋观测系统的未来发展提供指导，为可持续海洋资源管理的进步做出贡献。
