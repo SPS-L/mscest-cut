@@ -83,7 +83,7 @@ To update content:
 ## Contact
 
 For questions about the program or website:
-- **Program Coordinators**: See the [People](/people) page
+- **Program Coordinators**: See the [People](https://mscet.cut.ac.cy/people) page
 - **Technical Issues**: Contact the web development team
 
 ## License
