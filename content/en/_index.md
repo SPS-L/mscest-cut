@@ -41,8 +41,6 @@ sections:
       text:
       count: 5
       filters:
-        folders:
-          - publication
         author: ''
         category: ''
         exclude_featured: false
@@ -53,30 +51,6 @@ sections:
       page_type: post
     design:
       view: compact
-      columns: '2'
-
-  - block: pages
-    content:
-      title: Publications
-      subtitle: ''
-      filters:
-        folders:
-          - publication
-        publication_types:
-          - '1'  # Journal articles
-          - '2'  # Conference papers
-          - '3'  # Preprints
-          - '4'  # Reports
-          - '5'  # Books
-          - '6'  # Book sections
-          - '7'  # Theses
-          - '8'  # Patents
-      count: 20
-      page_size: 10
-      sort_by: 'Date'
-      sort_ascending: true
-    design:
-      view: 3
       columns: '2'
   
   # - block: features
