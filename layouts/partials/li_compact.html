@@ -1,0 +1,29 @@
+{{/* Compact list item */}}
+<div class="mb-3">
+  <div class="d-flex">
+    {{ if .Params.image }}
+      {{ $image := .Params.image }}
+      {{ $image_resource := resources.Get $image }}
+      {{ if $image_resource }}
+        {{ $image = $image_resource.RelPermalink }}
+      {{ end }}
+      <div class="me-3">
+        <img src="{{ $image }}" alt="{{ .Title }}" class="img-fluid" style="max-width: 100px;">
+      </div>
+    {{ end }}
+    <div class="flex-grow-1">
+      <h5 class="mb-1">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h5>
+      <p class="text-muted mb-1">
+        {{ .Date.Format "2006-01-02" }}
+        {{ with .Params.authors }}
+          • {{ delimit . ", " }}
+        {{ end }}
+      </p>
+      {{ with .Summary }}
+        <p class="mb-0">{{ . | plainify | truncate 150 }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div> 

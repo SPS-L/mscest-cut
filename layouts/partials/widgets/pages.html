@@ -1,0 +1,88 @@
+{{/* Wowchemy Blocks: Pages */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+
+{{/* Query */}}
+{{ $query := where (where site.RegularPages "Type" "in" $block.content.page_type) "Kind" "page" }}
+{{ $archive_page := $block.content.archive_page | default false }}
+
+{{/* Filters */}}
+{{ if $block.content.filters.folders }}
+  {{ $query = where $query "File.Dir" "in" $block.content.filters.folders }}
+{{ end }}
+{{ if $block.content.filters.publication_types }}
+  {{ $query = where $query "Params.publication_type" "in" $block.content.filters.publication_types }}
+{{ end }}
+{{ if $block.content.filters.exclude_featured | default false }}
+  {{ $query = where $query "Params.featured" "!=" true }}
+{{ end }}
+{{ if $block.content.filters.exclude }}
+  {{ $query = where $query "Params.publication_type" "not in" $block.content.filters.exclude.publication_type }}
+  {{ $query = where $query "Params.authors" "not in" $block.content.filters.exclude.author }}
+{{ end }}
+
+{{/* Sort */}}
+{{ $sort_by := $block.content.sort_by | default "Date" }}
+{{ $sort_ascending := $block.content.sort_ascending | default false }}
+{{ $query = sort $query $sort_by $sort_ascending }}
+
+{{/* Offset and Limit */}}
+{{ $count := $block.content.count | default 5 }}
+{{ $query = first $count $query }}
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $block.content.title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+
+  {{ with $block.content.subtitle }}<p class="text-muted">{{ . | markdownify | emojify }}</p>{{ end }}
+
+  {{ with $block.content.text }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+
+  {{ $view := $block.design.view | default 1 }}
+
+  {{ if eq $view 1 }}
+    {{/* List view */}}
+    {{ range $query }}
+      {{ if eq $page.Type "publication" }}
+        {{ partial "li_citation" . }}
+      {{ else }}
+        {{ partial "li_compact" . }}
+      {{ end }}
+    {{ end }}
+
+  {{ else if eq $view 2 }}
+    {{/* Compact view */}}
+    {{ range $query }}
+      {{ partial "li_compact" . }}
+    {{ end }}
+
+  {{ else if eq $view 3 }}
+    {{/* Card view */}}
+    <div class="row">
+      {{ range $query }}
+        <div class="col-md-6 col-lg-4 mb-4">
+          {{ partial "li_card" . }}
+        </div>
+      {{ end }}
+    </div>
+
+  {{ else if eq $view 4 }}
+    {{/* Citation view */}}
+    {{ range $query }}
+      {{ partial "li_citation" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $block.content.archive_page }}
+    <div class="see-all">
+      <a href="{{ $block.content.archive_page | relLangURL }}">
+        {{ i18n "archive.see_all" | default "See all" }}
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  {{ end }}
+</div> 

@@ -1,0 +1,28 @@
+{{/* Card list item */}}
+<div class="card h-100">
+  {{ if .Params.image }}
+    {{ $image := .Params.image }}
+    {{ $image_resource := resources.Get $image }}
+    {{ if $image_resource }}
+      {{ $image = $image_resource.RelPermalink }}
+    {{ end }}
+    <img src="{{ $image }}" class="card-img-top" alt="{{ .Title }}" style="height: 200px; object-fit: cover;">
+  {{ end }}
+  <div class="card-body">
+    <h5 class="card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h5>
+    <p class="card-text text-muted">
+      {{ .Date.Format "2006-01-02" }}
+      {{ with .Params.authors }}
+        • {{ delimit . ", " }}
+      {{ end }}
+    </p>
+    {{ with .Summary }}
+      <p class="card-text">{{ . | plainify | truncate 120 }}</p>
+    {{ end }}
+  </div>
+  <div class="card-footer">
+    <a href="{{ .RelPermalink }}" class="btn btn-primary btn-sm">Read more</a>
+  </div>
+</div> 

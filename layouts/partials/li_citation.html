@@ -1,0 +1,27 @@
+{{/* Citation list item for publications */}}
+<div class="mb-3">
+  <div class="citation">
+    <h5 class="mb-1">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h5>
+    <p class="text-muted mb-1">
+      {{ with .Params.authors }}
+        {{ delimit . ", " }}
+      {{ end }}
+      {{ if .Params.publication }}
+        • <em>{{ .Params.publication }}</em>
+      {{ end }}
+      {{ if .Params.date }}
+        • {{ .Params.date.Format "2006" }}
+      {{ end }}
+    </p>
+    {{ with .Params.abstract }}
+      <p class="mb-0">{{ . | plainify | truncate 200 }}</p>
+    {{ end }}
+    {{ with .Params.url }}
+      <a href="{{ . }}" class="btn btn-sm btn-outline-primary mt-2" target="_blank" rel="noopener">
+        <i class="fas fa-external-link-alt"></i> View
+      </a>
+    {{ end }}
+  </div>
+</div> 
