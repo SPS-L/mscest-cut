@@ -2,7 +2,7 @@
 title = "Behavioral Modeling Techniques for RF Devices Based on Physical TCAD Model"
 date = "2025-06-01"
 authors = ["JUNWEI YE"]
-tags = [RF devices, behavioral modeling, "TCAD model", "physical modeling"]
+tags = ["RF devices", "behavioral modeling", "TCAD model", "physical modeling"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
