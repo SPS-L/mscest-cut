@@ -65,4 +65,4 @@ user_groups:
 # The text below take it from page 13 of the document
 ---
 
-Christos P. Loizou is an adjunct Professor at the Department of Electrical Engineering, Computer Engineering and Informatics of the Cyprus University of Technology, Cyprus. He has more than 25 years’ of experience in medical imaging and video analysis and processing. His research interests include medical imaging, video analysis and processing; motion analysis; signal processing; pattern recognition; voice stress signal analysis; biosignal analysis in ultrasound and magnetic resonance imaging and video and computer applications in medicine.
+Christos P. Loizou is an adjunct Professor at the Department of Electrical Engineering, Computer Engineering and Informatics of the Cyprus University of Technology, Cyprus. He has more than 25 years' of experience in medical imaging and video analysis and processing. His research interests include medical imaging, video analysis and processing; motion analysis; signal processing; pattern recognition; voice stress signal analysis; biosignal analysis in ultrasound and magnetic resonance imaging and video and computer applications in medicine.

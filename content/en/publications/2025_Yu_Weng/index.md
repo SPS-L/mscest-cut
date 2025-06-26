@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, authored by Yu Weng at the Cyprus University of Technology, addresses advanced methods for improving magnetic resonance (MR) thermometry in the context of focused ultrasound (FUS) therapies. MR thermometry is a non-invasive imaging technique that enables real-time temperature mapping during thermal therapies, such as high-intensity focused ultrasound (HIFU) treatments. These therapies are increasingly used for precise ablation of pathological tissues, including tumors, without the need for surgical incisions. The integration of MR imaging with focused ultrasound allows clinicians to monitor and control the delivery of thermal energy, ensuring both efficacy and safety. However, MR thermometry faces several technical challenges, especially in dynamic or heterogeneous tissue environments, which this thesis aims to address.
+This master's thesis, authored by Yu Weng at the Cyprus University of Technology, addresses advanced methods for improving magnetic resonance (MR) thermometry in the context of focused ultrasound (FUS) therapies. MR thermometry is a non-invasive imaging technique that enables real-time temperature mapping during thermal therapies, such as high-intensity focused ultrasound (HIFU) treatments. These therapies are increasingly used for precise ablation of pathological tissues, including tumors, without the need for surgical incisions. The integration of MR imaging with focused ultrasound allows clinicians to monitor and control the delivery of thermal energy, ensuring both efficacy and safety. However, MR thermometry faces several technical challenges, especially in dynamic or heterogeneous tissue environments, which this thesis aims to address.
 
 ## Key Contributions
 

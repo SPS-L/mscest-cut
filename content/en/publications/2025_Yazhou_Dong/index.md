@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, titled **Development of a low-cost Micro-PMU (µPMU)**, presents the design, implementation, and evaluation of a cost-effective micro-phasor measurement unit (µPMU) for power grid applications. Authored by Yazhou Dong and submitted to the Cyprus University of Technology in December 2024, the work addresses the growing need for affordable, high-precision monitoring solutions in modern electrical distribution networks. The thesis is supervised by Prof. Petros Aristidou and is situated within the Department of Electrical Engineering and Computer Engineering and Informatics.
+This master's thesis, titled **Development of a low-cost Micro-PMU (µPMU)**, presents the design, implementation, and evaluation of a cost-effective micro-phasor measurement unit (µPMU) for power grid applications. Authored by Yazhou Dong and submitted to the Cyprus University of Technology in December 2024, the work addresses the growing need for affordable, high-precision monitoring solutions in modern electrical distribution networks. The thesis is supervised by Prof. Petros Aristidou and is situated within the Department of Electrical Engineering and Computer Engineering and Informatics.
 
 The document opens with an introduction to the challenges and opportunities in power system monitoring, emphasizing the limitations of traditional Supervisory Control and Data Acquisition (SCADA) systems and the advantages of PMUs. The literature review provides a comparative analysis of SCADA, conventional PMUs, and emerging µPMU technologies, highlighting recent advances and persisting gaps in low-cost, high-accuracy measurement solutions.
 

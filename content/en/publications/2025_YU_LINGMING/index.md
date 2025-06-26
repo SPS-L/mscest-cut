@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis explores the development and implementation of Pedestrian Dead Reckoning (PDR) systems utilizing smartphone inertial measurement unit (IMU) sensors in conjunction with wireless technologies. The work is situated within the broader context of indoor localization, where GPS signals are unreliable or unavailable. The thesis is presented at the Cyprus University of Technology, Faculty of Engineering and Technology, Department of Electrical Engineering, Computer Engineering, and Informatics, and supervised by Michalis Michaelides. The research addresses the growing need for accurate, real-time pedestrian tracking in environments such as large buildings, transit hubs, and industrial facilities.
+This master's thesis explores the development and implementation of Pedestrian Dead Reckoning (PDR) systems utilizing smartphone inertial measurement unit (IMU) sensors in conjunction with wireless technologies. The work is situated within the broader context of indoor localization, where GPS signals are unreliable or unavailable. The thesis is presented at the Cyprus University of Technology, Faculty of Engineering and Technology, Department of Electrical Engineering, Computer Engineering, and Informatics, and supervised by Michalis Michaelides. The research addresses the growing need for accurate, real-time pedestrian tracking in environments such as large buildings, transit hubs, and industrial facilities.
 
 ## Key Contributions
 

@@ -36,7 +36,7 @@ bio:
 #       institution: University College Cork
 #       year: 2005
 #     - course: Master Degree in Electrical Eng.
-#       institution: Xi’an Jiaotong University
+#       institution: Xi'an Jiaotong University
 #       year: 1998
 
 

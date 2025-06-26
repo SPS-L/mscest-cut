@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, authored by Yifan Li at the Cyprus University of Technology, addresses the development and validation of compact models for two critical semiconductor devices: silicon insulated-gate bipolar transistors (Si IGBTs) and silicon carbide metal-oxide-semiconductor field-effect transistors (SiC MOSFETs). These devices are widely used in modern power electronic systems due to their efficiency, switching speed, and robustness. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a strong interdisciplinary approach to advancing power electronics modeling.
+This master's thesis, authored by Yifan Li at the Cyprus University of Technology, addresses the development and validation of compact models for two critical semiconductor devices: silicon insulated-gate bipolar transistors (Si IGBTs) and silicon carbide metal-oxide-semiconductor field-effect transistors (SiC MOSFETs). These devices are widely used in modern power electronic systems due to their efficiency, switching speed, and robustness. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics, reflecting a strong interdisciplinary approach to advancing power electronics modeling.
 
 ## Key Contributions
 
@@ -36,7 +36,7 @@ This master’s thesis, authored by Yifan Li at the Cyprus University of Technol
 
 - **Application in System-Level Simulations:** By integrating the compact models into system-level simulation environments, the thesis demonstrates their effectiveness in predicting the performance of power converters and other power electronic systems. This integration is crucial for engineers aiming to optimize system efficiency, reliability, and cost.
 
-- **Focus on Emerging Technologies:** The inclusion of SiC MOSFETs highlights the thesis’s relevance to emerging trends in power electronics, as silicon carbide technology is increasingly adopted for its superior performance in high-voltage, high-frequency applications compared to traditional silicon devices.
+- **Focus on Emerging Technologies:** The inclusion of SiC MOSFETs highlights the thesis's relevance to emerging trends in power electronics, as silicon carbide technology is increasingly adopted for its superior performance in high-voltage, high-frequency applications compared to traditional silicon devices.
 
 ## Impact and Relevance
 

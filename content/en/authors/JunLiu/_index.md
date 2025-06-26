@@ -62,6 +62,6 @@ user_groups:
 # The text below take it from page 13 of the document
 ---
 
-Jun Liu (GS’09–M’11) received the M.S. degree in circuits and systems from Hangzhou Dianzi University, Hangzhou, China, in 2006, and the Ph.D. degree in electronic engineering from Dublin City University, Dublin, Ireland, in 2011.
+Jun Liu (GS'09–M'11) received the M.S. degree in circuits and systems from Hangzhou Dianzi University, Hangzhou, China, in 2006, and the Ph.D. degree in electronic engineering from Dublin City University, Dublin, Ireland, in 2011.
 He is currently a Professor with the Institute of Microelectronics, Hangzhou Dianzi University. His current research interests include compact device modeling, RF/monolithic microwave integrated circuit (MMIC) design, and computer-aided design (CAD)/EDA tools.
 

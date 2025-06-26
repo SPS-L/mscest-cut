@@ -35,10 +35,10 @@ education:
     - course: Ph.D. in Engineering
       institution: Chinese Academy of Sciences
       year: 2006
-    - course: Master’s Degree in Engineering
+    - course: Master's Degree in Engineering
       institution: Hunan University
       year: 2002
-    - course: Bachelor’s Degree in Science
+    - course: Bachelor's Degree in Science
       institution: Hunan University of Science and Technology
       year: 1992
 

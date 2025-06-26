@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, titled **Behavioral Modeling Techniques for RF Devices Based on Physical TCAD Model**, presents a comprehensive study on the development and application of behavioral modeling strategies for radio frequency (RF) devices. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at the Cyprus University of Technology, reflecting the institution’s focus on advancing research in electrical and computer engineering. The thesis is authored by Junwei Ye and supervised by Neophytos Lophitis, with the research completed and submitted in February 2024 in Limassol. The study addresses the growing need for accurate, efficient, and physically informed models that can bridge the gap between detailed device-level simulations and higher-level circuit/system design requirements.
+This master's thesis, titled **Behavioral Modeling Techniques for RF Devices Based on Physical TCAD Model**, presents a comprehensive study on the development and application of behavioral modeling strategies for radio frequency (RF) devices. The work is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at the Cyprus University of Technology, reflecting the institution's focus on advancing research in electrical and computer engineering. The thesis is authored by Junwei Ye and supervised by Neophytos Lophitis, with the research completed and submitted in February 2024 in Limassol. The study addresses the growing need for accurate, efficient, and physically informed models that can bridge the gap between detailed device-level simulations and higher-level circuit/system design requirements.
 
 ## Key Contributions
 

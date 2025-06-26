@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis, titled **Predictability of complex networks** by Xuetong Zhao, investigates the fundamental question of how predictable the behavior and evolution of complex networks are. Complex networks—such as social, biological, and technological systems—exhibit intricate structures and dynamic behaviors that challenge traditional analytical methods. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at Cyprus University of Technology, and was completed under the supervision of Fragkiskos Papadopoulos in February 2024.
+This master's thesis, titled **Predictability of complex networks** by Xuetong Zhao, investigates the fundamental question of how predictable the behavior and evolution of complex networks are. Complex networks—such as social, biological, and technological systems—exhibit intricate structures and dynamic behaviors that challenge traditional analytical methods. The thesis is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics at Cyprus University of Technology, and was completed under the supervision of Fragkiskos Papadopoulos in February 2024.
 
 The work addresses the theoretical and practical aspects of network predictability, exploring the extent to which future states or structural changes in a network can be anticipated based on current information. The study leverages recent advances in network science, statistical mechanics, and computational modeling to analyze both synthetic and real-world network data.
 

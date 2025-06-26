@@ -60,6 +60,6 @@ user_groups:
 # The text below take it from page 13 of the document
 ---
 
-Mian Pan received the B.S. degree in electronic engineering from Xidian University, Xi’an, China, in 2007, and the Ph.D. degree in signal processing from Xidian University, Xi’an, China, in 2013.
+Mian Pan received the B.S. degree in electronic engineering from Xidian University, Xi'an, China, in 2007, and the Ph.D. degree in signal processing from Xidian University, Xi'an, China, in 2013.
 He is now an associate professor at Hangzhou Dianzi University. His research interests include machine learning, radar signal processing, pattern recognition, audio, video, and image processing algorithms.
 

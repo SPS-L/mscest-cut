@@ -36,7 +36,7 @@ education:
       institution: Institute of Microelectronics
       year: 2009
     - course: Bachelor
-      institution: Xi’an Jiaotong University
+      institution: Xi'an Jiaotong University
       year: 2004
 
 
