@@ -44,10 +44,12 @@ sections:
         publication_types:
           - '1'  # Journal articles
           - '2'  # Conference papers
-          - '3'  # Book chapters
-          - '4'  # Books
-          - '5'  # Reports
-          - '6'  # Theses
+          - '3'  # Preprints
+          - '4'  # Reports
+          - '5'  # Books
+          - '6'  # Book sections
+          - '7'  # Theses
+          - '8'  # Patents
       count: 5
       page_size: 10
       sort_by: 'Date'
