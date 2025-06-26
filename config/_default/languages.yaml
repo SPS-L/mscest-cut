@@ -17,9 +17,15 @@ zh:
    description: Site description in Chinese...
  menu:
    main:
+     - name: 新闻
+       url: post
+       weight: 20
      - name: 程序
-       url: 'https://mscet.netlify.app/program/'
-       weight: 1
+       url: program
+       weight: 30
      - name: 人们
-       url: 'https://mscet.netlify.app/people/'
-       weight: 2 
+       url: people
+       weight: 40
+     - name: 出版物
+       url: publication
+       weight: 50 

@@ -1,10 +1,10 @@
 +++
-title = "Texture Analysis in Prostate Ultrasound Images Based on Different Pre-processing Schemes"
+title = "基于不同预处理方案的前列腺超声图像纹理分析"
 date = "2025-06-01"
 authors = ["Haohan Yu"]
-tags = ["ultrasound", "texture analysis", "prostate imaging", "pre-processing schemes"]
+tags = ["超声", "纹理分析", "前列腺成像", "预处理方案"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,18 +24,18 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This master's thesis investigates the application of texture analysis techniques to prostate ultrasound images, with a specific focus on how different pre-processing schemes affect the analysis outcomes. Conducted at the Cyprus University of Technology, the research addresses a critical need in medical imaging: improving the diagnostic accuracy and reliability of prostate cancer detection through advanced image processing methods. The study is supervised by Christos P. Loizou and is situated within the Department of Electrical Engineering, Computer Engineering, and Informatics.
+本硕士论文研究了纹理分析技术在前列腺超声图像中的应用，特别关注不同预处理方案如何影响分析结果。该研究在塞浦路斯理工大学进行，解决了医学成像中的一个关键需求：通过先进的图像处理方法提高前列腺癌检测的诊断准确性和可靠性。该研究由Christos P. Loizou指导，位于电气工程、计算机工程和信息学系。
 
-## Key Contributions
+## 主要贡献
 
-- **Comprehensive Evaluation of Pre-processing Schemes:** The thesis systematically compares multiple pre-processing approaches applied to prostate ultrasound images. These schemes may include noise reduction, contrast enhancement, normalization, and filtering, each of which can significantly impact the quality and interpretability of texture features extracted from the images.
+- **预处理方案的综合评估**: 本论文系统比较了应用于前列腺超声图像的多种预处理方法。这些方案可能包括降噪、对比度增强、归一化和滤波，每种方法都可能显著影响从图像中提取的纹理特征的质量和可解释性。
 
-- **Texture Feature Extraction and Analysis:** The research explores various texture descriptors—such as statistical, structural, and model-based features—to quantify tissue characteristics within the prostate. By analyzing how pre-processing influences these features, the thesis provides insights into optimal workflows for robust texture analysis.
+- **纹理特征提取和分析**: 该研究探索了各种纹理描述符——如统计、结构和基于模型的特征——来量化前列腺内的组织特征。通过分析预处理如何影响这些特征，本论文为稳健纹理分析的最佳工作流程提供了见解。
 
-- **Experimental Validation:** Using a dataset of prostate ultrasound images, the thesis evaluates the performance of different pre-processing and texture analysis combinations. Metrics such as feature robustness, discriminative power, and potential for clinical application are assessed, offering a data-driven foundation for selecting pre-processing strategies in future studies.
+- **实验验证**: 使用前列腺超声图像数据集，本论文评估了不同预处理和纹理分析组合的性能。评估了特征鲁棒性、判别能力和临床应用潜力等指标，为未来研究中选择预处理策略提供了数据驱动的基础。
 
-## Impact and Relevance
+## 影响和相关性
 
-The findings of this thesis have significant implications for both research and clinical practice in medical imaging. By clarifying the effects of pre-processing on texture analysis, the work guides practitioners and researchers toward more reliable and reproducible image analysis pipelines. This is particularly relevant for prostate cancer diagnostics, where subtle textural differences in ultrasound images can indicate pathological changes. The methodology and results can be extended to other organs and imaging modalities, contributing to the broader field of computer-aided diagnosis. Ultimately, the thesis supports the development of automated, objective tools for early detection and characterization of prostate cancer, with the potential to improve patient outcomes and optimize healthcare resources.
+本论文的发现对医学成像的研究和临床实践都具有重要意义。通过阐明预处理对纹理分析的影响，该工作指导从业者和研究人员建立更可靠和可重现的图像分析管道。这对前列腺癌诊断特别相关，其中超声图像中的细微纹理差异可能表明病理变化。该方法和结果可以扩展到其他器官和成像模式，为计算机辅助诊断的更广泛领域做出贡献。最终，本论文支持开发用于前列腺癌早期检测和表征的自动化、客观工具，具有改善患者结果和优化医疗资源的潜力。

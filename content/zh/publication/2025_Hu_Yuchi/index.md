@@ -1,10 +1,10 @@
 +++
-title = "Research on Cardiac Health Detection Sensors Based on CYTOP Fiber Bragg Grating"
+title = "基于CYTOP光纤布拉格光栅的心脏健康检测传感器研究"
 date = "2025-06-01"
 authors = ["Hu Yuchi"]
-tags = ["CYTOP", "fiber Bragg grating", "cardiac health detection", "sensors"]
+tags = ["CYTOP", "光纤布拉格光栅", "心脏健康检测", "传感器"]
 publication_types = [7]
-publication = "_Cyprus University of Technology_"
+publication = "_塞浦路斯理工大学_"
 publication_short = ""
 abstract = ""
 summary = ""
@@ -24,18 +24,18 @@ image = ""
 caption = ""
 +++
 
-## Overview
+## 概述
 
-This thesis, authored by Hu Yuchi at the Cyprus University of Technology, investigates the development and application of cardiac health detection sensors utilizing CYTOP-based fiber Bragg grating (FBG) technology. The work is situated at the intersection of optical engineering, biomedical sensing, and materials science, focusing on the unique properties of CYTOP polymer optical fibers and their integration into FBG-based sensor systems. The study addresses the growing demand for non-invasive, highly sensitive, and reliable cardiac monitoring solutions, leveraging the advantages of polymer fiber Bragg gratings over traditional silica-based counterparts.
+本论文由塞浦路斯理工大学的Hu Yuchi撰写，研究了利用基于CYTOP的光纤布拉格光栅（FBG）技术开发和应用的的心脏健康检测传感器。该工作位于光学工程、生物医学传感和材料科学的交叉点，专注于CYTOP聚合物光纤的独特性质及其在基于FBG的传感器系统中的集成。该研究解决了对非侵入性、高灵敏度和可靠的心脏监测解决方案日益增长的需求，利用聚合物光纤布拉格光栅相对于传统硅基对应物的优势。
 
-## Key Contributions
+## 主要贡献
 
-- **Design and Fabrication of CYTOP FBG Sensors:** The thesis details the process of inscribing Bragg gratings into CYTOP polymer optical fibers, highlighting the material's favorable mechanical flexibility, biocompatibility, and sensitivity to physical parameters such as strain and pressure. The work explores the challenges and solutions associated with grating inscription in polymer fibers, which differ significantly from conventional silica fibers due to their lower Young's modulus and different photosensitivity characteristics.
+- **CYTOP FBG传感器的设计和制造**: 本论文详细描述了在CYTOP聚合物光纤中刻写布拉格光栅的过程，突出了材料良好的机械柔韧性、生物相容性和对物理参数（如应变和压力）的敏感性。该工作探索了与聚合物光纤中光栅刻写相关的挑战和解决方案，由于较低的杨氏模量和不同的光敏特性，这些光纤与传统硅光纤显著不同。
 
-- **Sensor Characterization and Performance Analysis:** Comprehensive experimental studies are conducted to evaluate the response of CYTOP FBG sensors to cardiac-related physiological signals. The thesis presents data on the sensors' sensitivity to strain, pressure, and temperature, with particular emphasis on their application in detecting pulse waves and other cardiac health indicators. The performance of these sensors is benchmarked against existing technologies, demonstrating enhanced sensitivity and flexibility, which are critical for wearable and implantable medical devices.
+- **传感器表征和性能分析**: 进行了全面的实验研究，以评估CYTOP FBG传感器对心脏相关生理信号的响应。本论文提供了传感器对应变、压力和温度敏感性的数据，特别强调其在检测脉搏波和其他心脏健康指标中的应用。这些传感器的性能与现有技术进行基准测试，展示了增强的敏感性和灵活性，这对可穿戴和植入式医疗设备至关重要。
 
-- **System Integration and Application in Cardiac Monitoring:** The research includes the integration of CYTOP FBG sensors into prototype cardiac monitoring systems. It discusses signal processing techniques for extracting meaningful cardiac health metrics from the sensor data, addressing issues such as noise reduction, temperature compensation, and real-time monitoring. The thesis also explores the potential for multi-parameter sensing, leveraging the multiplexing capabilities of FBG technology to simultaneously monitor various physiological parameters.
+- **心脏监测中的系统集成和应用**: 该研究包括将CYTOP FBG传感器集成到原型心脏监测系统中。它讨论了从传感器数据中提取有意义的心脏健康指标的信号处理技术，解决了降噪、温度补偿和实时监测等问题。本论文还探索了多参数传感的潜力，利用FBG技术的多路复用能力同时监测各种生理参数。
 
-## Impact and Relevance
+## 影响和相关性
 
-The findings of this thesis have significant implications for the field of biomedical sensing and health monitoring. By demonstrating the feasibility and advantages of CYTOP-based FBG sensors for cardiac health detection, the work paves the way for the development of next-generation wearable and implantable medical devices. These sensors offer improved patient comfort, higher sensitivity, and the potential for continuous, real-time monitoring of vital signs. The research contributes to the broader adoption of polymer optical fiber technologies in healthcare, addressing key challenges in sensor fabrication, integration, and data interpretation. Ultimately, this work supports the advancement of personalized medicine and preventive healthcare by enabling more accurate and accessible cardiac monitoring solutions.
+本论文的发现对生物医学传感和健康监测领域具有重要意义。通过证明基于CYTOP的FBG传感器在心脏健康检测方面的可行性和优势，该工作为开发下一代可穿戴和植入式医疗设备铺平了道路。这些传感器提供改善的患者舒适度、更高的敏感性以及连续、实时监测生命体征的潜力。该研究有助于聚合物光纤技术在医疗保健中的更广泛采用，解决了传感器制造、集成和数据解释方面的关键挑战。最终，这项工作通过实现更准确和可访问的心脏监测解决方案，支持个性化医学和预防性医疗保健的进步。
