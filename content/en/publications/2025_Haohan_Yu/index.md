@@ -2,7 +2,7 @@
 title = "Texture Analysis in Prostate Ultrasound Images Based on Different Pre-processing Schemes"
 date = "2025-06-01"
 authors = ["Haohan Yu"]
-tags = [ultrasound, "texture analysis", "prostate imaging", "pre-processing schemes"]
+tags = ["ultrasound", "texture analysis", "prostate imaging", "pre-processing schemes"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
