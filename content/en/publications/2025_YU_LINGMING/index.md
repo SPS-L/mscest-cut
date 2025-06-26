@@ -2,7 +2,7 @@
 title = "Pedestrian Dead Reckoning (PDR) Using Smartphone IMU Sensors and Wireless Technologies"
 date = "2025-06-01"
 authors = ["YU LINGMING"]
-tags = [PDR, "smartphone IMU sensors", "wireless technologies", localization]
+tags = ["PDR", "smartphone IMU sensors", "wireless technologies", "localization"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

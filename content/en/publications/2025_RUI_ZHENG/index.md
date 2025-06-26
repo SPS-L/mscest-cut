@@ -2,7 +2,7 @@
 title = "Design of an Offshore Marine Environment Buoy Monitoring Platform Based on LoRa Wireless Technology"
 date = "2025-06-01"
 authors = ["RUI ZHENG"]
-tags = [LoRa, marine monitoring, "offshore buoy", "wireless technology"]
+tags = ["LoRa", "marine monitoring", "offshore buoy", "wireless technology"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

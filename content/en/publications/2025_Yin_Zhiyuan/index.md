@@ -2,7 +2,7 @@
 title = "Research on MEMS Accelerometers Based on Silicon Nanowire Arrays"
 date = "2025-06-01"
 authors = ["Yin Zhiyuan"]
-tags = [MEMS, accelerometers, "silicon nanowire arrays", sensors]
+tags = ["MEMS", "accelerometers", "silicon nanowire arrays", "sensors"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

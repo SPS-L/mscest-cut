@@ -2,7 +2,7 @@
 title = "Development and Validation of Compact Models for Si IGBTs and SiC MOSFETs in Power Electronic Systems"
 date = "2025-06-01"
 authors = ["Yifan Li"]
-tags = [Si IGBTs, "SiC MOSFETs", "compact modeling", "power electronic systems"]
+tags = ["Si IGBTs", "SiC MOSFETs", "compact modeling", "power electronic systems"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

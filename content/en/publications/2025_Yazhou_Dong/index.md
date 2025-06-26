@@ -2,7 +2,7 @@
 title = "Development of a low-cost Micro-PMU (µPMU)"
 date = "2025-06-01"
 authors = ["Yazhou Dong"]
-tags = [micro-PMU, "phasor measurement unit", "low-cost instrumentation", "power grid monitoring"]
+tags = ["micro-PMU", "phasor measurement unit", "low-cost instrumentation", "power grid monitoring"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

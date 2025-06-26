@@ -2,7 +2,7 @@
 title = "Enhanced Automated Prostate Segmentation in Ultrasound Images Based on Diverse Pre-Processing Strategies and Multi-Input Architectures"
 date = "2025-06-01"
 authors = ["Jiale Hou"]
-tags = [prostate segmentation, ultrasound images, "pre-processing strategies", "multi-input architectures"]
+tags = ["prostate segmentation", "ultrasound images", "pre-processing strategies", "multi-input architectures"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

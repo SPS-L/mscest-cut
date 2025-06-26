@@ -2,7 +2,7 @@
 title = "Prediction Study of Vegetation Dynamics in the Troodos Mountains Based on NDVI Time Series"
 date = "2025-06-01"
 authors = ["Ziheng Huang"]
-tags = [NDVI, "vegetation dynamics", "Troodos Mountains", "time series analysis"]
+tags = ["NDVI", "vegetation dynamics", "Troodos Mountains", "time series analysis"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""

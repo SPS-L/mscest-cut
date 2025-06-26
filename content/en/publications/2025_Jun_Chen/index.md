@@ -2,7 +2,7 @@
 title = "IoT and blockchain-based human health monitoring system"
 date = "2025-06-01"
 authors = ["Jun Chen"]
-tags = [IoT, blockchain, "health monitoring", "human health"]
+tags = ["IoT", "blockchain", "health monitoring", "human health"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
