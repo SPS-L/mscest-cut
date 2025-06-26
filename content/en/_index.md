@@ -40,7 +40,7 @@ sections:
       subtitle: ''
       filters:
         folders:
-          - publication
+          - publications
         publication_types:
           - '1'  # Journal articles
           - '2'  # Conference papers
