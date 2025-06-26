@@ -37,20 +37,24 @@ sections:
   - block: collection
     content:
       title: Publications
-      subtitle:
-      text:
-      count: 5
+      subtitle: ''
+      content_type: publication
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        publication_types:
+          - '1'  # Journal articles
+          - '2'  # Conference papers
+          - '3'  # Preprints
+          - '4'  # Reports
+          - '5'  # Books
+          - '6'  # Book sections
+          - '7'  # Theses
+          - '8'  # Patents
+      count: 5
+      page_size: 10
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      view: compact
+      view: citation
       columns: '2'
   
   # - block: features
