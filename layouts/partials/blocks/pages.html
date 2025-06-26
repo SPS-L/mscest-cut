@@ -21,12 +21,17 @@
 {{ if $block.content.filters.exclude_featured | default false }}
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
+
+{{/* Handle exclude filters safely */}}
 {{ if $block.content.filters.exclude }}
-  {{ if $block.content.filters.exclude.publication_type }}
-    {{ $query = where $query "Params.publication_type" "not in" $block.content.filters.exclude.publication_type }}
-  {{ end }}
-  {{ if $block.content.filters.exclude.author }}
-    {{ $query = where $query "Params.authors" "not in" $block.content.filters.exclude.author }}
+  {{ $exclude := $block.content.filters.exclude }}
+  {{ if and $exclude (reflect.IsMap $exclude) }}
+    {{ if isset $exclude "publication_type" }}
+      {{ $query = where $query "Params.publication_type" "not in" $exclude.publication_type }}
+    {{ end }}
+    {{ if isset $exclude "author" }}
+      {{ $query = where $query "Params.authors" "not in" $exclude.author }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
