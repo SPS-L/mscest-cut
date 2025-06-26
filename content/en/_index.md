@@ -50,10 +50,10 @@ sections:
           - '6'  # Book sections
           - '7'  # Theses
           - '8'  # Patents
-      count: 5
+      count: 20
       page_size: 10
       sort_by: 'Date'
-      sort_ascending: false
+      sort_ascending: true
     design:
       view: 3
       columns: '2'
