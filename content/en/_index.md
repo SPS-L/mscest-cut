@@ -34,6 +34,27 @@ sections:
       view: compact
       columns: '2'
 
+  - block: collection
+    content:
+      title: Publications
+      subtitle:
+      text:
+      count: 5
+      filters:
+        folders:
+          - publication
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: compact
+      columns: '2'
+
   - block: pages
     content:
       title: Publications
