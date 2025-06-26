@@ -2,7 +2,7 @@
 title = "Research On Video Super-Resolution Technology Based On Diffusion Model"
 date = "2025-06-01"
 authors = ["Chengzhang Wang"]
-tags = [diffusion model, "video super-resolution", "deep learning", "temporal consistency"]
+tags = ["diffusion model", "video super-resolution", "deep learning", "temporal consistency"]
 publication_types = ["thesis"]
 publication = "_Cyprus University of Technology_"
 publication_short = ""
@@ -26,7 +26,7 @@ caption = ""
 
 ## Overview
 
-This master’s thesis explores the application of diffusion models to the problem of video super-resolution (VSR), a task that aims to reconstruct high-resolution video frames from low-resolution inputs. The study is situated within the broader context of deep learning advancements, particularly the recent success of diffusion models in image generation and restoration. The work is conducted at the Cyprus University of Technology, Department of Electrical Engineering, Computer Engineering, and Informatics, and supervised by Prof. Sotirios Chatzis. The thesis addresses both the theoretical underpinnings and practical implementation of diffusion-based VSR, providing a comprehensive examination of how these generative models can be leveraged to enhance video quality while maintaining temporal coherence.
+This master's thesis explores the application of diffusion models to the problem of video super-resolution (VSR), a task that aims to reconstruct high-resolution video frames from low-resolution inputs. The study is situated within the broader context of deep learning advancements, particularly the recent success of diffusion models in image generation and restoration. The work is conducted at the Cyprus University of Technology, Department of Electrical Engineering, Computer Engineering, and Informatics, and supervised by Prof. Sotirios Chatzis. The thesis addresses both the theoretical underpinnings and practical implementation of diffusion-based VSR, providing a comprehensive examination of how these generative models can be leveraged to enhance video quality while maintaining temporal coherence.
 
 ## Key Contributions
 
