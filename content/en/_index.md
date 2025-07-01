@@ -37,9 +37,7 @@ sections:
   - block: collection
     content:
       title: Latest Publications
-      subtitle:
-        text: View Full List
-        url: publication/
+      subtitle: "[View Full List](publication/)"   # Use quotes for Markdown
       content_type: publication
       filters:
         publication_types:
