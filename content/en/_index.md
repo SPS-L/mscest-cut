@@ -37,7 +37,9 @@ sections:
   - block: collection
     content:
       title: Latest Publications
-      subtitle: [View Full List](publication/)
+      subtitle:
+        text: View Full List
+        url: publication/
       content_type: publication
       filters:
         publication_types:
