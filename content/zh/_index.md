@@ -37,7 +37,7 @@ sections:
   - block: collection
     content:
       title: 最新出版物
-      subtitle: ''
+      subtitle: "[查看完整列表](publication/)"
       content_type: publication
       filters:
         publication_types:
