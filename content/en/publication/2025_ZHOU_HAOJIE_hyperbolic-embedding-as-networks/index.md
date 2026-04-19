@@ -15,7 +15,7 @@ url_code = ""
 url_dataset = ""
 url_poster = ""
 url_slides = ""
-url_source = ""
+url_source = "https://doi.org/10.1088/1402-4896/ae0ebe"
 url_video = ""
 url_pdf = ""
 doi = "10.1088/1402-4896/ae0ebe"
@@ -25,3 +25,4 @@ highlight = true
 image = ""
 caption = ""
 +++
+Hyperbolic space has emerged as a powerful framework for representing complex networks due to its ability to capture hierarchical and scale-free structures. In this work, we perform a comparative analysis of three representative hyperbolic embedding methods-Poincare, Lorentz, and D-Mercator-on a real-world dataset: the Autonomous System (AS) Internet topology. While Poincare and Lorentz are rooted in machine learning-based optimization, D-Mercator is derived from network science principles and provides interpretable parameters such as node popularity and similarity. We evaluate these methods using three complementary tasks: greedy routing, missing link prediction, and embedding correlation analysis. Our results show that Lorentz consistently achieves the best performance in greedy routing and ROC-based link prediction, while D-Mercator outperforms others in precision-recall evaluation. Furthermore, correlation analyses reveal strong agreement between Poincare and Lorentz embeddings, especially for high-degree nodes, while D-Mercator produces significantly different distance structures, indicating a distinct geometric interpretation of the same network. These findings highlight the trade-offs between machine-learning-based and algorithmic hyperbolic embeddings in terms of overall accuracy, interpretability, and task-specific performance.
