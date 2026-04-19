@@ -35,37 +35,32 @@ This is a collaborative master's program that combines the expertise of two lead
 
 ### Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) (version 0.80.0 or higher)
-- [Go](https://golang.org/dl/) (for Hugo modules)
+- [Hugo Extended](https://gohugo.io/installation/) **0.97.3** (pinned in `netlify.toml`)
+- [Go](https://golang.org/dl/) 1.15+ (for Hugo modules)
 
 ### Setup
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd mscet
-   ```
-
+1. Clone the repository and enter the project directory.
 2. Install Hugo modules:
    ```bash
    hugo mod get
    ```
-
-3. Start the development server:
+3. Start the development server (`-D` includes drafts):
    ```bash
-   hugo server
+   hugo server -D
    ```
-
-4. Open [http://localhost:1313](http://localhost:1313) in your browser
+4. Open [http://localhost:1313](http://localhost:1313) in your browser.
 
 ### Content Structure
 
-- `content/en/` - English content
-- `content/zh/` - Chinese content
-- `content/en/program/` - Program information and courses
-- `content/en/authors/` - Faculty profiles
-- `content/en/publication/` - Research publications
-- `content/en/post/` - News and announcements
+Content is bilingual. Each page under `content/en/` has a translated mirror under `content/zh/` with identical folder and file names.
+
+- `content/en/` — English (default language)
+- `content/zh/` — Simplified Chinese
+- `content/en/program/` — Program overview and semester-by-semester course catalog
+- `content/en/authors/` — Faculty profiles (folder name = author slug, e.g. `ChristakisDamianou`)
+- `content/en/publication/` — Student theses and research output
+- `content/en/post/` — News and announcements
 
 ## Deployment
 
@@ -82,9 +77,7 @@ To update content:
 
 ## Contact
 
-For questions about the program or website:
-- **Program Coordinators**: See the [People](https://mscet.cut.ac.cy/people) page
-- **Technical Issues**: Contact the web development team
+For questions about the program, see the [People](https://mscet.cut.ac.cy/people) page. For technical issues with the website, open an issue on this repository.
 
 ## License
 
