@@ -1,7 +1,7 @@
 +++
 title = "Improving Magnetic Resonance Thermometry in Focused Ultrasound Using GrabCut with Adaptive Phase-Variation Detection and a Hampel–Gaussian Model"
 date = "2025-01-01"
-authors = ["Weng Yu"]
+authors = ["Yu Weng"]
 tags = []
 publication_types = [1]
 publication = ""

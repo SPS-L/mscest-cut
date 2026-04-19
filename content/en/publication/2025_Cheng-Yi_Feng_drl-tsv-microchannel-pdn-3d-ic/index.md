@@ -1,6 +1,6 @@
 +++
 title = "Multiobjective Deep Reinforcement Learning Driven Collaborative Optimization of TSV-Based Microchannel and PDN for 3-D ICs"
-date = "2026-02-01"
+date = "2026-01-01"
 authors = ["Cheng-Yi Feng", "Lazaros Aresti", "Peng Zhang", "Wen-Sheng Zhao", "Paul Christodoulides"]
 tags = []
 publication_types = [1]

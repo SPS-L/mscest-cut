@@ -1,6 +1,6 @@
 +++
 title = "Comparison of hyperbolic embedding methods for Autonomous Systems (AS) networks: machine learning versus network science"
-date = "2025-10-01"
+date = "2025-10-15"
 authors = ["Haojie Zhou", "Xuetong Zhao", "Shijie Cheng", "Stelios Ioannou", "Zhekang Dong"]
 tags = []
 publication_types = [1]

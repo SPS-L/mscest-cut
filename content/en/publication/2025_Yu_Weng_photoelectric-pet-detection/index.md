@@ -1,10 +1,10 @@
 +++
-title = "一种基于光电结构的PET图病变检测装置 (invention patent authorized)"
+title = "一种基于光电结构的PET图病变检测装置"
 date = "2025-01-01"
-authors = ["Weng Yu"]
+authors = ["Yu Weng"]
 tags = []
 publication_types = [8]
-publication = ""
+publication = "Chinese Invention Patent (authorized)"
 publication_short = ""
 abstract = ""
 summary = ""
