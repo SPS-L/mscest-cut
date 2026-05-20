@@ -28,4 +28,7 @@ zh:
        weight: 40
      - name: 出版物
        url: publication
-       weight: 50 
+       weight: 50
+     - name: 奖项
+       url: awards
+       weight: 60
