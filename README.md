@@ -1,10 +1,10 @@
-# MSc in Electronics and Technology
+# MSc in Electronic Science and Technology
 
 [![Website](https://img.shields.io/badge/Website-mscet.cut.ac.cy-blue)](https://mscet.cut.ac.cy/)
 [![Hugo](https://img.shields.io/badge/Built%20with-Hugo-orange)](https://gohugo.io/)
 [![Theme](https://img.shields.io/badge/Theme-Wowchemy%20Research%20Group-green)](https://wowchemy.com/hugo-themes/)
 
-Official website for the joint **MSc in Electronics Science and Technology** program between the [Cyprus University of Technology](https://cut.ac.cy) (CUT) in Cyprus and [Hangzhou Dianzi University](https://www.hdu.edu.cn) (HDU) in China.
+Official website for the joint **MSc in Electronic Science and Technology** program between the [Cyprus University of Technology](https://cut.ac.cy) (CUT) in Cyprus and [Hangzhou Dianzi University](https://www.hdu.edu.cn) (HDU) in China.
 
 ## About the Program
 

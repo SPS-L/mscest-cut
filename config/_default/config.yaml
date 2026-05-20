@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MSc in Electronics and Technology # Website name
+title: MSc in Electronic Science and Technology # Website name
 baseURL: 'https://mscet.cut.ac.cy/' # Website URL
 
 ############################

@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        This is the official website of the joint MSc in Electronics Science and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
+        This is the official website of the joint MSc in Electronic Science and Technology between the [Cyprus University of Technology](https://cut.ac.cy) in Cyprus and the [Hangzhou Dianzi University](https://www.hdu.edu.cn) in China.
   
   - block: collection
     content:

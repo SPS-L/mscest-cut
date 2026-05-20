@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Hugo static site for the joint **MSc in Electronics Science and Technology** program between Cyprus University of Technology (CUT) and Hangzhou Dianzi University (HDU). Built with the **Wowchemy Research Group theme** (v5.7.1, via Hugo modules). Bilingual: English + Simplified Chinese. Deployed on Netlify.
+Hugo static site for the joint **MSc in Electronic Science and Technology** program between Cyprus University of Technology (CUT) and Hangzhou Dianzi University (HDU). Built with the **Wowchemy Research Group theme** (v5.7.1, via Hugo modules). Bilingual: English + Simplified Chinese. Deployed on Netlify.
 
 ## Development Commands
 

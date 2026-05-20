@@ -8,7 +8,7 @@ MScEST students spent a full day exploring the UNESCO World Heritage city of Pap
 
 <!--more-->
 
-On Saturday, 2 May 2026, students of the MSc in Electronics Science and Technology took a day trip to **Paphos**, discovering more than 3,000 years of Greek, Roman, and Byzantine history. Stops along the way included:
+On Saturday, 2 May 2026, students of the MSc in Electronic Science and Technology took a day trip to **Paphos**, discovering more than 3,000 years of Greek, Roman, and Byzantine history. Stops along the way included:
 
 🏛️ **Kourion Archaeological Site** — the ancient Greco-Roman cliff-top city and its 2nd-century theatre overlooking the Mediterranean
 
