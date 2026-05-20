@@ -1,24 +1,32 @@
 ---
-title: MSc in Electronic Science and Technology
-linkTitle: Program Overview
-summary: 
-date: '2021-01-24'
-type: book
+title: "MSc in Electronics Science and Technology"
+subtitle: "A joint programme between Cyprus University of Technology (CUT) and Hangzhou Dianzi University (HDU), China."
+date: 2026-01-01
 ---
 
-## Program overview
+## Overview
 
-{{< figure src="overview.png" >}}
+The MScEST is a 2-year, 120 ECTS postgraduate programme jointly delivered
+by CUT and HDU. It combines rigorous training in engineering fundamentals
+with specialisation in electronics science and technology, embedded
+computing, and intelligent systems.
 
-## What you will learn
+## Programme Structure
 
-- Something
-- Something
+| Component | Duration | Location |
+|---|---|---|
+| Core coursework | Year 1 (Semesters 1–2) | HDU, Hangzhou, China |
+| Specialisation & electives | Year 2 (Semester 3) | CUT, Limassol, Cyprus |
+| Master's thesis | Year 2 (Semesters 3–4) | CUT (co-supervised) |
 
-## Courses in this program
+## Key Facts
 
-{{< list_children show_summary='false' >}}
+- **Duration:** 2 years (4 semesters), 120 ECTS
+- **Language of instruction:** English
+- **Degree awarded:** MSc by CUT (EU-recognised)
+- **Thematic areas:** Microelectronics & integrated systems · Embedded systems & IoT · Signal & image processing · Machine learning & intelligent systems · Sensors & photonics
 
-## Meet the coordinators
+## Admissions
 
-{{< mention "admin" >}}
+For requirements, deadlines and fees contact:
+📧 [mscest@cut.ac.cy](mailto:mscest@cut.ac.cy)
