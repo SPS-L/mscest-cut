@@ -97,6 +97,7 @@ No GitHub Pages or CI-based publication import workflow in this repo.
 - `enableEmoji: true`, `hasCJKLanguage: true` — emoji and Chinese rendering both active.
 - `{{< mention "AuthorFolderName" >}}` links to `/author/<slug>/`. The slug is derived from the folder name (CamelCase preserved, not hyphenated).
 - When mirroring content to `content/zh/`, keep filenames and folder names identical to the English tree so Hugo pairs translations correctly.
+- **Per-change verification**: After every change, run `hugo` locally to verify the site compiles, and fix any errors before moving on.
 - **Pre-push verification**: Before every `git push`, run `hugo --gc --minify` locally and confirm the build succeeds. Do not push if the build fails.
 
 ## Workflow Guides
