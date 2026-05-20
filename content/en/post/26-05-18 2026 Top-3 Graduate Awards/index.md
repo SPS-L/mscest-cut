@@ -6,7 +6,7 @@ draft: false
 
 The MScEST Academic Committee has announced the Top-3 Graduate Awards for the 2026 graduation cohort.
 
-<\!--more-->
+<!--more-->
 
 Congratulations to our top three graduates of the 2026 cohort, recognised for their academic performance and research output:
 
