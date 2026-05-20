@@ -38,7 +38,7 @@ sections:
     content:
       title: Latest Publications
       subtitle: "[View Full List](publication/)"   # Use quotes for Markdown
-      content_type: publication
+      page_type: publication
       filters:
         publication_types:
           - '1'  # Journal articles

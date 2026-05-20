@@ -38,7 +38,7 @@ sections:
     content:
       title: 最新出版物
       subtitle: "[查看完整列表](publication/)"
-      content_type: publication
+      page_type: publication
       filters:
         publication_types:
           - '1'  # 期刊论文

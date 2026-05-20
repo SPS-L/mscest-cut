@@ -29,3 +29,6 @@ zh:
      - name: 奖项
        url: awards
        weight: 60
+     - name: 联系我们
+       url: contact
+       weight: 70
