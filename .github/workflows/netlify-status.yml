@@ -1,0 +1,71 @@
+name: Netlify Deploy Status
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-deploy:
+    name: Monitor Netlify Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Netlify deploy and report status
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          COMMIT_SHA: ${{ github.sha }}
+        run: |
+          echo "Waiting for Netlify to pick up commit $COMMIT_SHA..."
+          sleep 15
+
+          DEPLOY_ID=""
+          for i in $(seq 1 20); do
+            DEPLOY=$(curl -s \
+              -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" \
+              "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys?per_page=5")
+
+            DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "
+          import sys, json
+          deploys = json.load(sys.stdin)
+          sha = '$COMMIT_SHA'
+          for d in deploys:
+              if d.get('commit_ref','').startswith(sha[:12]):
+                  print(d['id'])
+                  break
+          ")
+            if [ -n "$DEPLOY_ID" ]; then
+              echo "Found deploy: $DEPLOY_ID"
+              break
+            fi
+            echo "Attempt $i: deploy not yet listed, waiting 15s..."
+            sleep 15
+          done
+
+          if [ -z "$DEPLOY_ID" ]; then
+            echo "::error::Could not find a Netlify deploy for commit $COMMIT_SHA"
+            exit 1
+          fi
+
+          echo "Polling deploy $DEPLOY_ID for completion..."
+          for i in $(seq 1 40); do
+            STATE=$(curl -s \
+              -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" \
+              "https://api.netlify.com/api/v1/deploys/$DEPLOY_ID" \
+              | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('state',''))")
+
+            echo "  State: $STATE (poll $i)"
+
+            if [ "$STATE" = "ready" ]; then
+              echo "::notice::Netlify deploy SUCCEEDED for commit $COMMIT_SHA"
+              exit 0
+            elif [ "$STATE" = "error" ]; then
+              LOG_URL="https://app.netlify.com/projects/mscest/deploys/$DEPLOY_ID"
+              echo "::error::Netlify deploy FAILED. See logs: $LOG_URL"
+              exit 1
+            fi
+            sleep 15
+          done
+
+          echo "::error::Timed out waiting for Netlify deploy to complete."
+          exit 1
